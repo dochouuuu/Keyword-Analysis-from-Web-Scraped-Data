@@ -1,0 +1,86 @@
+timestamp,title,url
+09/07/2024 06:05 GMT+7,"Tin tức sáng 9-7: Thêm ca dương tính bạch hầu; Hà Nội tăng sốt xuất huyết, ho gà, viêm não"',https://tuoitre.vn/tin-tuc-sang-9-7-them-ca-duong-tinh-bach-hau-ha-noi-tang-sot-xuat-huyet-ho-ga-viem-nao-20240708230214181.htm
+08/07/2024 06:39 GMT+7,"Tin tức thế giới 8-7: Hezbollah tấn công trên không lớn nhất vào Israel; Thủ tướng Pháp từ chức"',https://tuoitre.vn/tin-tuc-the-gioi-8-7-hezbollah-tan-cong-tren-khong-lon-nhat-vao-israel-thu-tuong-phap-tu-chuc-20240708031952135.htm
+08/07/2024 07:33 GMT+7,"Tin tức thời tiết hôm nay 8.7.2024: Miền Bắc nắng mưa thất thường, miền Nam mưa lớn"',https://thanhnien.vn/tin-tuc-thoi-tiet-hom-nay-872024-mien-bac-nang-mua-that-thuong-mien-nam-mua-lon-185240708070858251.htm
+08/07/2024 11:41 GMT+7,"Rò rỉ thông tin về Apple Watch Series X"',https://thanhnien.vn/ro-ri-thong-tin-ve-apple-watch-series-x-185240708093728038.htm
+08/07/2024 09:41 GMT+7,"Hơn 10 tỉ mật khẩu bị tin tặc phát tán lên web đen"',https://thanhnien.vn/hon-10-ti-mat-khau-bi-tin-tac-phat-tan-len-web-den-185240708092045189.htm
+10/07/2024 04:07 GMT+7,"Tin tức đặc biệt trên báo in Thanh Niên 10.7.2024"',https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-1072024-185240709231108611.htm
+10/07/2024 10:31 GMT+7,"Tin tức giá xe: Volkswagen Teramont X giảm tới 130 triệu, rẻ hơn hẳn Ford Explorer"',https://tuoitre.vn/tin-tuc-gia-xe-volkswagen-teramont-x-giam-toi-130-trieu-re-hon-han-ford-explorer-20240710081224919.htm
+10/07/2024 06:29 GMT+7,"Tin tức thời tiết hôm nay 10.7.2024: Miền Bắc nơi nắng nóng, nơi mưa giông"',https://thanhnien.vn/tin-tuc-thoi-tiet-hom-nay-1072024-mien-bac-noi-nang-nong-noi-mua-giong-185240710062035432.htm
+10/07/2024 00:10 GMT+7,"Ngày mới với tin tức sức khỏe: Chế độ ăn giúp người tuổi 50 phòng tiểu đường"',https://thanhnien.vn/ngay-moi-voi-tin-tuc-suc-khoe-che-do-an-giup-tuoi-50-phong-benh-tieu-duong-185240709224521512.htm
+10/07/2024 04:25 GMT+7,"Đội tuyển Hà Lan gặp sự cố khó tin, UEFA tức tốc điều động cảnh sát hộ tống"',https://thanhnien.vn/doi-tuyen-ha-lan-gap-su-co-kho-tin-uefa-tuc-toc-dieu-dong-canh-sat-ho-tong-185240710022728136.htm
+10/07/2024 06:21 GMT+7,"Nhà báo Pháp: HLV Deschamps nên ra đi"',https://tuoitre.vn/nha-bao-phap-hlv-deschamps-nen-ra-di-20240710055731143.htm
+11/07/2024 04:13 GMT+7,"Tin tức đặc biệt trên báo in Thanh Niên 11.7.2024"',https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-1172024-185240710234725732.htm
+10/07/2024 19:00 GMT+7,"Tin tức giá xe: MG ZS có 'đáy' mới tại đại lý, rẻ hơn SUV hạng A"',https://tuoitre.vn/tin-tuc-gia-xe-mg-zs-co-day-moi-tai-dai-ly-re-hon-suv-hang-a-20240710150332033.htm
+11/07/2024 06:01 GMT+7,"Tin tức thế giới 11-7: Hạ viện Mỹ thẩm tra sức khỏe ông Biden; NATO chuyển F-16 tới Ukraine"',https://tuoitre.vn/tin-tuc-the-gioi-11-7-ha-vien-my-tham-tra-suc-khoe-ong-biden-nato-chuyen-f-16-toi-ukraine-20240711042227659.htm
+11/07/2024 11:40 GMT+7,"Lamine Yamal, điều diệu kỳ ở tuổi 16"',https://tuoitre.vn/lamine-yamal-dieu-dieu-ky-o-tuoi-16-20240711085230928.htm
+11/07/2024 07:54,"Bổ nhiệm ông Phạm Anh Tuấn làm Phó Tổng Giám đốc Tổng công ty Bưu điện Việt Nam"',https://mic.gov.vn/bo-nhiem-ong-pham-anh-tuan-lam-pho-tong-giam-doc-tong-cong-ty-buu-dien-viet-nam-197240711052513314.htm
+11/07/2024 01:00 GMT+7,"Thắng ngược Hà Lan 2-1, tuyển Anh vào chung kết Euro 2024"',https://tuoitre.vn/thang-nguoc-ha-lan-2-1-tuyen-anh-vao-chung-ket-euro-2024-20240710043033385.htm
+10/07/2024 14:07 GMT+7,"Hé lộ thông tin về robot thông minh Apple sắp ra mắt"',https://thanhnien.vn/he-lo-thong-tin-ve-robot-thong-minh-apple-sap-ra-mat-185240710055620435.htm
+10/07/2024 23:22 GMT+7,"Samsung ra mắt loạt thiết bị chăm sóc sức khỏe mới tích hợp AI"',https://thanhnien.vn/samsung-ra-mat-loat-thiet-bi-cham-soc-suc-khoe-moi-tich-hop-ai-185240710230859795.htm
+12/07/2024 04:17 GMT+7,"Tin tức sáng 12-7: 50 ngày thí điểm TP.HCM thu phí vỉa hè hơn 1 tỉ; Thu nhập công nhân gần 10 triệu"',https://tuoitre.vn/tin-tuc-sang-12-7-50-ngay-thi-diem-tp-hcm-thu-phi-via-he-hon-1-ti-thu-nhap-cong-nhan-gan-10-trieu-20240711231828462.htm
+14/07/2024 06:00 GMT+7,"Tin tức đặc biệt trên báo in Thanh Niên 14.7.2024"',https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-1472024-185240713230123697.htm
+12/07/2024 07:28 GMT+7,"Tin tức thế giới 12-7: 12 nghị sĩ Dân chủ quay lưng với ông Biden; NATO thỏa thuận gì với Hàn Quốc?"',https://tuoitre.vn/tin-tuc-the-gioi-12-7-12-nghi-si-dan-chu-quay-lung-voi-ong-biden-nato-thoa-thuan-gi-voi-han-quoc-20240712070700587.htm
+12/07/2024 04:09 GMT+7,"Tin tức đặc biệt trên báo in Thanh Niên 12.7.2024"',https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-1272024-18524071123494286.htm
+11/07/2024 18:11 GMT+7,"Tin tức giải trí 11-7: Adele, Ed Sheeran đến cổ vũ tuyển Anh tại Euro 2024"',https://tuoitre.vn/tin-tuc-giai-tri-11-7-adele-ed-sheeran-den-co-vu-tuyen-anh-tai-euro-2024-20240711153223847.htm
+12/07/2024 12:30 GMT+7,"Honda Wave Alpha 2025 ra mắt, cộng đồng mạng xôn xao: 'Thiết kế Honda quá nhàn, đổi mỗi màu và tem'"',https://tuoitre.vn/honda-wave-alpha-2025-ra-mat-cong-dong-mang-xon-xao-thiet-ke-honda-qua-nhan-doi-moi-mau-va-tem-20240712095543501.htm
+13/07/2024 05:43 GMT+7,"Tin tức sáng 13-7: TP.HCM mong có hướng dẫn bãi giữ xe công viên; Điện Mặt trời Trung Nam bị phạt"',https://tuoitre.vn/tin-tuc-sang-13-7-tp-hcm-mong-co-huong-dan-bai-giu-xe-cong-vien-dien-mat-troi-trung-nam-bi-phat-20240711165502472.htm
+12/07/2024 16:33 GMT+7,"Tin tức giải trí 12-7: Hari Won khác lạ; Minions sắp có phần 3"',https://tuoitre.vn/tin-tuc-giai-tri-12-7-hari-won-khac-la-minions-sap-co-phan-3-20240712161630551.htm
+13/07/2024 12:22 GMT+7,"Học sinh giỏi 4 năm vẫn trượt lớp 10 công lập Hà Nội, phụ huynh mang hồ sơ đi nộp tràn tuyến"',https://tuoitre.vn/hoc-sinh-gioi-4-nam-van-truot-lop-10-cong-lap-ha-noi-phu-huynh-mang-ho-so-di-nop-tran-tuyen-20240713115530443.htm
+14/07/2024 00:11 GMT+7,"Ngày mới với tin tức sức khỏe: Tác dụng bất ngờ của lá ổi với bệnh tiểu đường"',https://thanhnien.vn/ngay-moi-voi-tin-tuc-suc-khoe-tac-dung-bat-ngo-cua-la-oi-voi-benh-tieu-duong-18524070909192221.htm
+14/07/2024 08:55,"Euro 2024: HLV Southgate "Tôi tin những giấc mơ của mình""',https://nld.com.vn/euro-2024-hlv-southgate-toi-tin-nhung-giac-mo-cua-minh-196240714084716571.htm
+14/07/2024 09:38,"Soi tỉ số trận chung kết Euro 2024 Anh - Tây Ban Nha, cập nhật mới nhất"',https://nld.com.vn/soi-ti-so-tran-chung-ket-euro-2024-anh-tay-ban-nha-cap-nhat-moi-nhat-196240714091222046.htm
+15/07/2024 06:23 GMT+7,"Tin tức thế giới 15-7: Tình tiết mới vụ ông Trump bị bắn; Bên ông Biden đổi chiến lược tranh cử"',https://tuoitre.vn/tin-tuc-the-gioi-15-7-tinh-tiet-moi-vu-ong-trump-bi-ban-ben-ong-biden-doi-chien-luoc-tranh-cu-202407150427007.htm
+15/07/2024 04:09 GMT+7,"Tin tức đặc biệt trên báo in Thanh Niên 15.7.2024"',https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-1572024-185240714225636734.htm
+15/07/2024 10:26,"Thông tin mới nhất vụ sân Golf Đà Lạt"',https://xaydungchinhsach.chinhphu.vn/thong-tin-moi-nhat-vu-san-golf-da-lat-119240715102646661.htm
+15/07/2024 13:33 GMT+7,"Tin tức giá xe: Skoda Kodiaq giảm hơn 200 triệu phí lăn bánh, vẫn cao hơn Hyundai Santa Fe"',https://tuoitre.vn/tin-tuc-gia-xe-skoda-kodiaq-giam-hon-200-trieu-phi-lan-banh-van-cao-hon-hyundai-santa-fe-20240715074139735.htm
+15/07/2024 05:55 GMT+7,"Tin tức sáng 15-7: Tuổi thọ bình quân người Việt đạt 74,5 tuổi; Năng suất giảm, giá rau củ tăng cao"',https://tuoitre.vn/tin-tuc-sang-15-7-tuoi-tho-binh-quan-nguoi-viet-dat-74-5-tuoi-nang-suat-giam-gia-rau-cu-tang-cao-20240714211648983.htm
+14/07/2024 16:20 GMT+7,"Tin tức giải trí 14-7: Catch Me If You Can của Anh trai say hi soán ngôi Sơn Tùng top 1 trending"',https://tuoitre.vn/tin-tuc-giai-tri-14-7-catch-me-if-you-can-cua-anh-trai-say-hi-soan-ngoi-son-tung-top-1-trending-20240714160234479.htm
+14/07/2024 21:00 GMT+7,"Euro 2024 ngày cuối: Lễ bế mạc ngắn gọn, mở màn đại tiệc"',https://tuoitre.vn/euro-2024-ngay-cuoi-le-be-mac-ngan-gon-mo-man-dai-tiec-2024071413051351.htm
+15/07/2024 12:36,"Tình tiết mới vụ người vợ đầu độc chồng và 3 cháu bằng Xyanua ở Đồng Nai"',https://nld.com.vn/tinh-tiet-moi-vu-nguoi-vo-dau-doc-chong-va-3-chau-bang-xyanua-o-dong-nai-196240715115928765.htm
+16/07/2024 06:59 GMT+7,"Tin tức thế giới 16-7: Ông Trump chính thức là ứng viên tổng thống; Bộ Tư pháp Mỹ sẽ kháng cáo"',https://tuoitre.vn/tin-tuc-the-gioi-16-7-ong-trump-chinh-thuc-la-ung-vien-tong-thong-bo-tu-phap-my-se-khang-cao-20240716064833155.htm
+16/07/2024 04:07 GMT+7,"Tin tức đặc biệt trên báo in Thanh Niên 16.7.2024"',https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-1672024-185240716001324897.htm
+15/07/2024 16:20 GMT+7,"Từ 1-8, sổ đỏ sẽ không được cấp khi nào theo Luật Đất đai?"',https://tuoitre.vn/tu-1-8-so-do-se-khong-duoc-cap-khi-nao-theo-luat-dat-dai-20240715160405126.htm
+16/07/2024 06:31 GMT+7,"Tin tức sáng 16-7: Bộ trưởng Đào Hồng Lan khen điều dưỡng cấp cứu bé bị sặc sữa trên taxi"',https://tuoitre.vn/tin-tuc-sang-16-7-bo-truong-dao-hong-lan-khen-dieu-duong-cap-cuu-be-bi-sac-sua-tren-taxi-20240713225135621.htm
+15/07/2024 16:24 GMT+7,"Tin tức giải trí ngày 15-7: Harry Styles, Hoàng tử William tiếc khi tuyển Anh thua chung kết Euro"',https://tuoitre.vn/tin-tuc-giai-tri-ngay-15-7-harry-styles-hoang-tu-william-tiec-khi-tuyen-anh-thua-chung-ket-euro-2024071516110874.htm
+17/07/2024 05:31 GMT+7,"Tin tức sáng 17-7: Giá USD tự do giảm mạnh"',https://tuoitre.vn/tin-tuc-sang-17-7-gia-usd-tu-do-giam-manh-20240716172338535.htm
+17/07/2024 04:20 GMT+7,"Tin tức đặc biệt trên báo in Thanh Niên 17.7.2024"',https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-1772024-185240716233021137.htm
+16/07/2024 15:55 GMT+7,"Tin tức giải trí 16-7: Gỡ bỏ tập phim có nội dung ám sát sau sự kiện ông Trump bị tấn công"',https://tuoitre.vn/tin-tuc-giai-tri-16-7-go-bo-tap-phim-co-noi-dung-am-sat-sau-su-kien-ong-trump-bi-tan-cong-20240716153450677.htm
+17/07/2024 06:39 GMT+7,"Tin tức thế giới 17-7: Iran bác cáo buộc âm mưu ám sát ông Trump"',https://tuoitre.vn/tin-tuc-the-gioi-17-7-iran-bac-cao-buoc-am-muu-am-sat-ong-trump-2024071705582073.htm
+17/07/2024 10:13 GMT+7,"Tin tức giá xe: Nissan Kicks V còn 628 triệu, bản đắt nhất ngang bản thấp của đối thủ"',https://tuoitre.vn/tin-tuc-gia-xe-nissan-kicks-v-con-628-trieu-ban-dat-nhat-ngang-ban-thap-cua-doi-thu-20240717070949505.htm
+16/07/2024 19:00 GMT+7,"Tin tức giá xe: Hàng loạt xe BMW giảm giá cả trăm triệu, X3 giảm sâu nhất 180 triệu"',https://tuoitre.vn/tin-tuc-gia-xe-hang-loat-xe-bmw-giam-gia-ca-tram-trieu-x3-giam-sau-nhat-180-trieu-20240716081138095.htm
+17/07/2024 10:49 GMT+7,"Chuyên gia trang điểm Việt nghi bị đầu độc chết ở Thái Lan: Gia đình đau xót chờ tin"',https://thanhnien.vn/chuyen-gia-trang-diem-viet-nghi-bi-dau-doc-chet-o-thai-lan-gia-dinh-dau-xot-cho-tin-185240717102715475.htm
+18/07/2024 06:43 GMT+7,"Tin tức thế giới 18-7: Ông Biden mắc COVID-19, có thể ngừng tranh cử?"',https://tuoitre.vn/tin-tuc-the-gioi-18-7-ong-biden-mac-covid-19-co-the-ngung-tranh-cu-20240718062657721.htm
+18/07/2024 04:10 GMT+7,"Tin tức đặc biệt trên báo in Thanh Niên 18.7.2024"',https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-1872024-185240718011826338.htm
+18/07/2024 06:00 GMT+7,"Tin tức sáng 18-7: Hà Nội sắp chạy tuyến đường sắt đô thị thứ 2; Gạo Việt đứng đầu xuất Indonesia"',https://tuoitre.vn/tin-tuc-sang-18-7-thang-nay-ha-noi-cho-chay-tuyen-duong-sat-do-thi-thu-2-tp-hcm-lui-tiep-metro-20240717223812805.htm
+17/07/2024 19:00 GMT+7,"Tin tức giá xe: MG RX5 giảm giá kỷ lục ở đại lý, chỉ còn từ 559 triệu đồng"',https://tuoitre.vn/tin-tuc-gia-xe-mg-rx5-giam-gia-ky-luc-o-dai-ly-chi-con-tu-559-trieu-dong-20240717094027539.htm
+17/07/2024 16:27 GMT+7,"Tin tức giải trí 17-7: Ca sĩ Đàm Vĩnh Hưng khóa bình luận fanpage sau quyết định cấm diễn 9 tháng"',https://tuoitre.vn/tin-tuc-giai-tri-17-7-ca-si-dam-vinh-hung-khoa-binh-luan-fanpage-sau-quyet-dinh-cam-dien-9-thang-20240717145416544.htm
+17/07/2024 17:07,"ResumeLooters - Mối đe dọa mới từ lừa đảo việc làm"',https://mic.gov.vn/resumelooters-moi-de-doa-moi-tu-lua-dao-viec-lam-197240717164324807.htm
+09/07/2024 00:03,"Thông tin đáng chú ý trên báo in Người Lao Động ngày 9-7"',https://nld.com.vn/thong-tin-dang-chu-y-tren-bao-in-nguoi-lao-dong-ngay-9-7-196240708222212569.htm
+09/07/2024 17:43 GMT+7,"Kỷ luật Đảng Cục trưởng Cục Thi hành án dân sự tỉnh Thừa Thiên - Huế"',https://thanhnien.vn/ky-luat-dang-cuc-truong-cuc-thi-hanh-an-dan-su-tinh-thua-thien-hue-18524070916061368.htm
+11/07/2024 09:20,"Báo Người Lao Động ra mắt chuyên mục AI 365"',https://nld.com.vn/bao-nguoi-lao-dong-ra-mat-chuyen-muc-ai-365-196240711092024979.htm
+09/07/2024 00:03,"Thông tin đáng chú ý trên báo in Người Lao Động ngày 9-7"',https://nld.com.vn/thong-tin-dang-chu-y-tren-bao-in-nguoi-lao-dong-ngay-9-7-196240708222212569.htm
+09/07/2024 17:43 GMT+7,"Kỷ luật Đảng Cục trưởng Cục Thi hành án dân sự tỉnh Thừa Thiên - Huế"',https://thanhnien.vn/ky-luat-dang-cuc-truong-cuc-thi-hanh-an-dan-su-tinh-thua-thien-hue-18524070916061368.htm
+11/07/2024 09:20,"Báo Người Lao Động ra mắt chuyên mục AI 365"',https://nld.com.vn/bao-nguoi-lao-dong-ra-mat-chuyen-muc-ai-365-196240711092024979.htm
+12/07/2024 12:05,"Tây Ban Nha tiến vào trận chung kết Euro 2024 với phong độ ấn tượng"',https://nld.com.vn/tay-ban-nha-tien-vao-tran-chung-ket-euro-2024-voi-phong-do-an-tuong-196240711234222325.htm
+13/07/2024 06:19,"Thông tin đáng chú ý trên báo in Người Lao Động ngày 13-7"',https://nld.com.vn/thong-tin-dang-chu-y-tren-bao-in-nguoi-lao-dong-ngay-13-7-196240712230102607.htm
+15/07/2024 00:09,"Thông tin đáng chú ý trên báo in Người Lao Động ngày 15-7"',https://nld.com.vn/thong-tin-dang-chu-y-tren-bao-in-nguoi-lao-dong-ngay-15-7-1962407142134399.htm
+15/07/2024 07:00 GMT+7,"Luật sư làm chứng mua bán nhà đất ?: Chờ sự vào cuộc của Bộ Tư pháp"',https://thanhnien.vn/luat-su-lam-chung-mua-ban-nha-dat-cho-su-vao-cuoc-cua-bo-tu-phap-185240714200410917.htm
+16/07/2024 08:06,"OpenAI sắp tung “chiến thần” mới, mật danh Dâu Tây"',https://nld.com.vn/openai-sap-tung-chien-than-moi-mat-danh-dau-tay-196240715134802125.htm
+16/07/2024 05:30 GMT+7,"'ATM nước sạch biên cương' kịp thời giải khát cho dân nghèo"',https://thanhnien.vn/atm-nuoc-sach-bien-cuong-kip-thoi-giai-khat-cho-dan-ngheo-185240715194933185.htm
+17/07/2024 07:05,"AI hỗ trợ ứng viên phỏng vấn xin việc: Gian lận hay tỏa sáng?"',https://nld.com.vn/ai-ho-tro-ung-vien-phong-van-xin-viec-gian-lan-hay-toa-sang-196240714220140837.htm
+17/07/2024 09:18 GMT+7,"Tòa quân sự T.Ư xét xử phúc thẩm vụ kit test Việt Á tại Học viện Quân y"',https://thanhnien.vn/toa-quan-su-tu-xet-xu-phuc-tham-vu-kit-test-viet-a-tai-hoc-vien-quan-y-18524071708594506.htm
+18/07/2024 13:12 GMT+7,"Phan Quốc Việt được Tòa án Quân sự T.Ư giảm 3 năm tù"',https://thanhnien.vn/phan-quoc-viet-duoc-toa-an-quan-su-tu-giam-3-nam-tu-185240718101215913.htm
+17/07/2024 15:03 GMT+7,"Phan Quốc Việt được Viện kiểm sát Quân sự T.Ư đề nghị giảm án"',https://thanhnien.vn/phan-quoc-viet-duoc-vien-kiem-sat-quan-su-tu-de-nghi-giam-an-185240717143556601.htm
+09/07/2024 17:43 GMT+7,"Kỷ luật Đảng Cục trưởng Cục Thi hành án dân sự tỉnh Thừa Thiên - Huế"',https://thanhnien.vn/ky-luat-dang-cuc-truong-cuc-thi-hanh-an-dan-su-tinh-thua-thien-hue-18524070916061368.htm
+11/07/2024 09:20,"Báo Người Lao Động ra mắt chuyên mục AI 365"',https://nld.com.vn/bao-nguoi-lao-dong-ra-mat-chuyen-muc-ai-365-196240711092024979.htm
+12/07/2024 12:05,"Tây Ban Nha tiến vào trận chung kết Euro 2024 với phong độ ấn tượng"',https://nld.com.vn/tay-ban-nha-tien-vao-tran-chung-ket-euro-2024-voi-phong-do-an-tuong-196240711234222325.htm
+13/07/2024 06:19,"Thông tin đáng chú ý trên báo in Người Lao Động ngày 13-7"',https://nld.com.vn/thong-tin-dang-chu-y-tren-bao-in-nguoi-lao-dong-ngay-13-7-196240712230102607.htm
+13/07/2024 07:18 GMT+7,"Khen thưởng phải đúng, trúng, kịp thời"',https://thanhnien.vn/khen-thuong-phai-dung-trung-kip-thoi-185240712230854885.htm
+15/07/2024 00:09,"Thông tin đáng chú ý trên báo in Người Lao Động ngày 15-7"',https://nld.com.vn/thong-tin-dang-chu-y-tren-bao-in-nguoi-lao-dong-ngay-15-7-1962407142134399.htm
+16/07/2024 05:30 GMT+7,"'ATM nước sạch biên cương' kịp thời giải khát cho dân nghèo"',https://thanhnien.vn/atm-nuoc-sach-bien-cuong-kip-thoi-giai-khat-cho-dan-ngheo-185240715194933185.htm
+17/07/2024 12:26 GMT+7,"Cụ bà 79 tuổi chờ bản án dân sự hơn 10 năm chưa được thi hành"',https://thanhnien.vn/cu-ba-79-tuoi-cho-ban-an-dan-su-hon-10-nam-chua-duoc-thi-hanh-185240716171702885.htm
+17/07/2024 07:05,"AI hỗ trợ ứng viên phỏng vấn xin việc: Gian lận hay tỏa sáng?"',https://nld.com.vn/ai-ho-tro-ung-vien-phong-van-xin-viec-gian-lan-hay-toa-sang-196240714220140837.htm
+17/07/2024 09:18 GMT+7,"Tòa quân sự T.Ư xét xử phúc thẩm vụ kit test Việt Á tại Học viện Quân y"',https://thanhnien.vn/toa-quan-su-tu-xet-xu-phuc-tham-vu-kit-test-viet-a-tai-hoc-vien-quan-y-18524071708594506.htm
+18/07/2024 13:12 GMT+7,"Phan Quốc Việt được Tòa án Quân sự T.Ư giảm 3 năm tù"',https://thanhnien.vn/phan-quoc-viet-duoc-toa-an-quan-su-tu-giam-3-nam-tu-185240718101215913.htm
+17/07/2024 15:03 GMT+7,"Phan Quốc Việt được Viện kiểm sát Quân sự T.Ư đề nghị giảm án"',https://thanhnien.vn/phan-quoc-viet-duoc-vien-kiem-sat-quan-su-tu-de-nghi-giam-an-185240717143556601.htm
