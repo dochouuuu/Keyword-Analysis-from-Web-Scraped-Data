@@ -14,24 +14,16 @@ connection = (
     'DRIVER=/opt/homebrew/lib/libmsodbcsql.17.dylib'
 )
 
-def fetch_categories():
-    conn = pyodbc.connect(connection)
-    cursor = conn.cursor()
-    cursor.execute("SELECT id, name FROM categories")
-    categories = cursor.fetchall()
-    conn.close()
-    return categories
-
 def fetch_keywords_for_date_and_category(selected_date, category_id):
     conn = pyodbc.connect(connection)
     cursor = conn.cursor()
 
     cursor.execute("""
-    SELECT k.keyword
+    SELECT keyword
     FROM keywords k
     JOIN articles a ON k.article_id = a.id
-    WHERE CAST(a.timestamp AS DATE) = ? AND a.category_id = ?
-    """, selected_date, category_id)
+    WHERE CAST(a.timestamp AS DATE) = ?
+    """, selected_date)
 
     keywords = cursor.fetchall()
     conn.close()
@@ -45,31 +37,22 @@ def generate_wordcloud(keywords):
     wordcloud = WordCloud(width=800, height=400, background_color='white').generate(all_keywords_cleaned)
     return wordcloud
 
-def display_wordcloud(wordcloud, date, category_name):
+def display_wordcloud(wordcloud, date):
     fig, ax = plt.subplots(figsize=(15, 8))
     ax.imshow(wordcloud)
     ax.axis('off')
     formatted_date = date.strftime('%d %B %Y')
-    ax.set_title(f"Keyword Trends for {formatted_date} - Category: {category_name}")
+    ax.set_title(f"Keyword Trends for {formatted_date}")
     st.pyplot(fig)
 
 def main():
-    st.title('Keyword Trends by Date and Category')
-
-    categories = fetch_categories()
-    category_names = [name for _, name in categories]
-    category_ids = [id for id, _ in categories]
-
-    selected_category_name = st.sidebar.radio("Select a category", category_names)
-    selected_category_id = category_ids[category_names.index(selected_category_name)]
-    
-    selected_date = st.sidebar.date_input("Select a date", datetime.today().date())
-    keywords = fetch_keywords_for_date_and_category(selected_date, selected_category_id)
+    st.title('Keyword Trends Day By Day')
+    selected_date = st.date_input("Select a date", datetime.today().date())
+    keywords = fetch_keywords_for_date(selected_date)
     
     if keywords:
         wordcloud = generate_wordcloud(keywords)
-        display_wordcloud(wordcloud, selected_date, selected_category_name)
+        display_wordcloud(wordcloud, selected_date)
     else:
-        st.write("No keywords available for the selected date and category.")
-
+        st.write("No keywords available for the selected date.")
 main()
