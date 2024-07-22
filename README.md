@@ -4,7 +4,7 @@ This project fetches articles and keywords from a SQL Server database and visual
 
 ## Project Description
 
-This project scrapes websites to retrieve articles and their associated keywords. The data is stored in a SQL Server database with the following schema:
+This project scrapes websites to retrieve articles and uses LLM to collect their associated keywords. The data is stored in a SQL Server database with the following schema:
 
 - `categories` table to store categories of articles.
 - `articles` table to store articles with a reference to their categories.
