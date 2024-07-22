@@ -15,14 +15,6 @@ params = urllib.parse.quote_plus(connection_string)
 
 engine = create_engine(f"mssql+pyodbc:///?odbc_connect={params}")
 
-def insert_categories(file_path, dtypes1): 
-    try: 
-        df = pd.read_csv(file_path)
-        df['name'].to_sql('categories', con=engine, if_exists='append', index=False, dtype=dtypes1)
-        print("Categories inserted successfully!")
-    except Exception as e:
-        print(f"Error inserting categories: {e}")
-
 def parse_timestamp(timestamp_str):
     try:
         timestamp_str = timestamp_str.replace('GMT+7', '').strip()
@@ -69,11 +61,6 @@ def insert_keywords(file_path, dtypes3):
     except Exception as e:
         print(f"Error inserting keywords: {e}")
 
-categories_csv = 'categories.txt'
-dtypes1 = {
-    'name' : types.NVARCHAR(length=255), 
-}
-
 articles_csv = 'finalres_pt1.csv'
 dtypes2 = {
     'timestamp': types.DateTime(),
@@ -87,6 +74,5 @@ dtypes3 = {
     'keyword' : types.NVARCHAR(length=255),
 }
 
-insert_categories(categories_csv, dtypes1)
 insert_articles(articles_csv,dtypes2)
 insert_keywords(keywords_csv, dtypes3)
