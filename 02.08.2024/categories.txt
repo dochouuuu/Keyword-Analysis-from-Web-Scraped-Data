@@ -1,0 +1,7 @@
+name
+Politics
+Economy 
+Sport
+Showbiz 
+World 
+General

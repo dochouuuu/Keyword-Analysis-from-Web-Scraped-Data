@@ -1,0 +1,157 @@
+id, category_id,timestamp,title,url
+1,1,28-07-2024,Presidente vietnamita recibe al secretario de Estado de EE.UU.,https://es.nhandan.vn/presidente-vietnamita-recibe-al-secretario-de-estado-de-eeuu-post65026.html
+2,1,29-07-2024,Vietnam agradece muestras de afecto y condolencias por el deceso del secretario general Nguyen Phu Trong,https://es.nhandan.vn/vietnam-agradece-muestras-de-afecto-y-condolencias-por-el-deceso-del-secretario-general-nguyen-phu-trong-post65085.html
+3,6,31-07-2024,"Khởi động chương trình ""Hạt giống cho Tương lai 2024"": Cơ hội cho sinh viên tài năng",https://dangcongsan.vn/khuyen-hoc/khoi-dong-chuong-trinh-hat-giong-cho-tuong-lai-2024-co-hoi-cho-sinh-vien-tai-nang-673830.html
+4,1,31-07-2024,Việt Nam có 'vé' xuất khẩu khỉ vào Trung Quốc,https://thanhnien.vn/viet-nam-co-ve-xuat-khau-khi-vao-trung-quoc-185240731130013932.htm
+5,6,31-07-2024,Vinamilk công bố kết quả kinh doanh quý 2/2024: tăng trưởng ấn tượng,https://thanhnien.vn/vinamilk-cong-bo-ket-qua-kinh-doanh-quy-2-2024-tang-truong-an-tuong-185240731123402156.htm
+6,6,31-07-2024,Nhu cầu vàng trong quý 2 cao kỷ lục đẩy giá vàng tăng vọt,https://thanhnien.vn/nhu-cau-vang-trong-quy-2-cao-ky-luc-day-gia-vang-tang-vot-185240731093717557.htm
+7,6,31-07-2024,Doanh thu FPT Retail tăng 22%,https://thanhnien.vn/fpt-long-chau-mo-them-209-nha-thuoc-fpt-shop-dong-100-cua-hang-18524073109170952.htm
+8,6,31-07-2024,"Ecopark đưa biệt thự đảo về Nghệ An, thu hút giới nhà giàu kín tiếng",https://thanhnien.vn/ecopark-dua-biet-thu-dao-ve-nghe-an-thu-hut-gioi-nha-giau-kin-tieng-185240730183257037.htm
+9,1,31-07-2024,Có cần kiểm soát đầu cơ trên thị trường vàng?,https://thanhnien.vn/co-can-kiem-soat-dau-co-tren-thi-truong-vang-185240730213012256.htm
+1,6,01-08-2024,Đồng Tháp: Triển khai kế hoạch bảo đảm trật tự an toàn giao thông địa bàn phức tạp,https://atgt.baogiaothong.vn/dong-thap-trien-khai-ke-hoach-bao-dam-trat-tu-an-toan-giao-thong-dia-ban-phuc-tap-192240801163842295.htm
+2,6,01-08-2024,"Nhiều bến, bãi chưa đảm bảo ATGT đường thủy ở Đồng Tháp đang được khắc phục",https://atgt.baogiaothong.vn/nhieu-ben-bai-chua-dam-bao-atgt-duong-thuy-o-dong-thap-dang-duoc-khac-phuc-192240729181915067.htm
+3,1,01-08-2024,"Xử phạt tài xế vụ cán bộ huyện lái Honda CRV đánh võng, gây hấn trên đường",https://atgt.baogiaothong.vn/xu-phat-tai-xe-vu-can-bo-huyen-lai-honda-crv-danh-vong-gay-han-tren-duong-192240801083821746.htm
+4,1,01-08-2024,CSGT truy quét xe quá tải ở trong khu dân cư,https://atgt.baogiaothong.vn/csgt-truy-quet-xe-qua-tai-o-trong-khu-dan-cu-192240730071817729.htm
+5,1,01-08-2024,Nhiều điểm sạt lở trên tuyến đường gần 400 tỷ đồng mới mở,https://atgt.baogiaothong.vn/nhieu-diem-sat-lo-tren-tuyen-duong-gan-400-ty-dong-moi-mo-192240731223627832.htm
+6,6,31-07-2024,"Đắk Lắk xây dựng hình ảnh đẹp của CSGT trong lòng dân, du khách",https://atgt.baogiaothong.vn/dak-lak-xay-dung-hinh-anh-dep-cua-csgt-trong-long-dan-du-khach-192240731195455727.htm
+7,1,31-07-2024,Bình Định: Yêu cầu gắn trách nhiệm người đứng đầu với kết quả đảm bảo ATGT,https://atgt.baogiaothong.vn/lanh-dao-binh-dinh-yeu-cau-gan-trach-nhiem-nguoi-dung-dau-voi-ket-qua-dam-bao-atgt-192240731175717853.htm
+8,6,31-07-2024,Phối hợp CSGT xử lý lái xe buýt gắn thêm đèn gây chói mắt người đi đường,https://atgt.baogiaothong.vn/phoi-hop-csgt-xu-ly-lai-xe-buyt-gan-them-den-gay-choi-mat-nguoi-di-duong-19224073117563709.htm
+9,4,31-07-2024,"Hai ô tô rượt đuổi, húc nhau rồi lật ngửa khiến người đi đường khiếp sợ",https://atgt.baogiaothong.vn/hai-o-to-ruot-duoi-huc-nhau-roi-lat-ngua-khien-nguoi-di-duong-khiep-so-192240731182153258.htm
+10,6,31-07-2024,"Lộ danh tính lái xe đi vào làn khẩn cấp, quyết không nhường xe ưu tiên ở đường Vành đai 3",https://atgt.baogiaothong.vn/lo-danh-tinh-lai-xe-di-vao-lan-khan-cap-quyet-khong-nhuong-xe-uu-tien-o-duong-vanh-dai-3-192240731174720744.htm
+11,6,31-07-2024,"Bà Rịa - Vũng Tàu: ""Mắt thần"" giúp xử lý vi phạm, kéo giảm tai nạn giao thông",https://atgt.baogiaothong.vn/ba-ria-vung-tau-mat-than-giup-xu-ly-vi-pham-keo-giam-tai-nan-giao-thong-192240731135304202.htm
+12,6,31-07-2024,Khắc phục hư hỏng trên QL19 do xe chở vật liệu gây ra,https://atgt.baogiaothong.vn/khac-phuc-hu-hong-tren-ql19-do-xe-cho-vat-lieu-gay-ra-192240731104846314.htm
+13,6,31-07-2024,"Trong 2 tháng cao điểm, CSGT Bình Định tập trung xử lý những lỗi vi phạm gì?",https://atgt.baogiaothong.vn/trong-2-thang-cao-diem-csgt-binh-dinh-tap-trung-xu-ly-nhung-loi-vi-pham-gi-192240731070413049.htm
+14,6,31-07-2024,"Lai Châu: Xuất hiện nhiều điểm sạt lở, gây ách tắc giao thông cục bộ",https://atgt.baogiaothong.vn/lai-chau-xuat-hien-nhieu-diem-sat-lo-gay-ach-tac-giao-thong-cuc-bo-192240731110832358.htm
+15,6,31-07-2024,Vì sao hàng trăm vụ TNGT xảy ra trên đường cao tốc trong 7 tháng đầu năm?,https://atgt.baogiaothong.vn/vi-sao-hang-tram-vu-tngt-xay-ra-tren-duong-cao-toc-trong-7-thang-dau-nam-192240731114331059.htm
+16,6,31-07-2024,Sạt lở đất gây ách tắc trên QL3 qua Bắc Kạn,https://atgt.baogiaothong.vn/sat-lo-dat-gay-ach-tac-tren-ql3-qua-bac-kan-192240731072851296.htm
+17,6,31-07-2024,"Lập bộ phận ATGT tại nhà xe, tốn kém cũng phải làm",https://atgt.baogiaothong.vn/lap-bo-phan-atgt-tai-nha-xe-ton-kem-cung-phai-lam-192240729221735838.htm
+18,4,31-07-2024,"Diện áo đấu của CLB Al-Ittihad, sao trẻ MU Garnacho gây xôn xao",https://baoquocte.vn/dien-ao-dau-cua-clb-al-ittihad-sao-tre-mu-garnacho-gay-xon-xao-280733.html
+19,6,31-07-2024,"Chảo lửa Trung Đông: Israel tấn công vùng ngoại ô thủ đô của Lebanon, gần 70 người thương vong, Nga và Iran lên tiếng",https://baoquocte.vn/chao-lua-trung-dong-israel-tan-cong-vung-ngoai-o-thu-do-cua-lebanon-gan-70-nguoi-thuong-vong-nga-va-iran-len-tieng-280746.html
+20,1,31-07-2024,Thủ tướng Modi: Ngày Ấn Độ trở thành nền kinh tế lớn thứ ba thế giới không còn xa,https://baoquocte.vn/thu-tuong-modi-ngay-an-do-tro-thanh-nen-kinh-te-lon-thu-ba-the-gioi-khong-con-xa-280755.html
+21,6,31-07-2024,"Chuỗi hoạt động 'Khơi mở thế giới của bạn' thu hút sự tham gia, trải nghiệm của hàng nghìn người",https://baoquocte.vn/chuoi-hoat-dong-khoi-mo-the-gioi-cua-ban-thu-hut-su-tham-gia-trai-nghiem-cua-hang-nghin-nguoi-280805.html
+22,2,31-07-2024,Nga cần thị trường Trung Quốc hơn hay Bắc Kinh cần khí đốt Moscow hơn?,https://baoquocte.vn/nga-can-thi-truong-trung-quoc-hon-hay-bac-kinh-can-khi-dot-moscow-hon-280780.html
+23,6,31-07-2024,Giá xăng dầu hôm nay 31/7: Tăng nhẹ đầu phiên,https://baoquocte.vn/gia-xang-dau-hom-nay-317-tang-nhe-dau-phien-280758.html
+24,1,31-07-2024,Chiến thắng ngoại giao của Cộng hòa Trung Phi,https://baoquocte.vn/chien-thang-ngoai-giao-cu-a-cong-ho-a-trung-phi-280761.html
+25,6,31-07-2024,"Chảo lửa Trung Đông: Chỉ huy cấp cao Hezbollah tử vong, Israel sẵn sàng cho mọi kịch bản, Mỹ tuyên bố sẽ giúp đồng minh 'tự vệ'",https://baoquocte.vn/chao-lua-trung-dong-chi-huy-cap-cao-hezbollah-tu-vong-israel-san-sang-cho-moi-kich-ban-my-tuyen-bo-se-giup-dong-minh-tu-ve-280757.html
+26,1,31-07-2024,"Venezuela trục xuất nhân viên ngoại giao của 7 nước Mỹ Latinh, Chile nói gì?",https://baoquocte.vn/venezuela-truc-xuat-nhan-vien-ngoai-giao-cua-7-nuoc-my-latinh-chile-noi-gi-280760.html
+27,5,31-07-2024,"Các phe phái ở Sudan chấp nhận lời mời tham gia đàm phán của Mỹ, LHQ thông báo thời điểm hòa giải",https://baoquocte.vn/cac-phe-phai-o-sudan-chap-nhan-loi-moi-tham-gia-dam-phan-cua-my-lhq-thong-bao-thoi-diem-hoa-giai-280752.html
+28,6,31-07-2024,"PM Pham Minh Chinh arrives in New Delhi, begins State visit",https://en.nhandan.vn/pm-pham-minh-chinh-arrives-in-new-delhi-begins-state-visit-post137828.html
+29,6,01-08-2024,"Từ 1/8, có thể bấm biển số xe trên cổng dịch vụ công hoặc VNeID",https://nhandan.vn/tu-18-co-the-bam-bien-so-xe-tren-cong-dich-vu-cong-hoac-vneid-post822159.html
+30,1,31-07-2024,"Chủ tịch nước Tô Lâm: Cải cách tư pháp đáp ứng tốt hơn yêu cầu, đòi hỏi của tình hình mới",https://nhandan.vn/chu-tich-nuoc-to-lam-cai-cach-tu-phap-dap-ung-tot-hon-yeu-cau-doi-hoi-cua-tinh-hinh-moi-post821924.html
+31,1,01-08-2024,Thắt chặt quản lý di sản,https://nhandan.vn/that-chat-quan-ly-di-san-post822121.html
+32,4,01-08-2024,Trần Tùng Anh đoạt giải Đặc biệt cuộc thi tìm kiếm tài năng âm nhạc trẻ tại Trung Quốc,https://nhandan.vn/tran-tung-anh-doat-giai-dac-biet-cuoc-thi-tim-kiem-tai-nang-am-nhac-tre-tai-trung-quoc-post822100.html
+33,6,01-08-2024,Nâng cao vai trò của lãnh đạo nữ hướng tới sự phát triển bền vững tại Việt Nam,https://nhandan.vn/nang-cao-vai-tro-cua-lanh-dao-nu-huong-toi-su-phat-trien-ben-vung-tai-viet-nam-post822103.html
+34,6,01-08-2024,Lập trạm y tế lưu động phòng bệnh cho người dân nơi lũ quét Mường Pồn,https://nhandan.vn/lap-tram-y-te-luu-dong-phong-benh-cho-nguoi-dan-noi-lu-quet-muong-pon-post822090.html
+35,6,01-08-2024,Ngộ độc nhôm do dùng phèn chua liên tục chữa hôi nách nhiều năm,https://nhandan.vn/ngo-doc-nhom-do-dung-phen-chua-lien-tuc-chua-hoi-nach-nhieu-nam-post822079.html
+36,6,01-08-2024,Trang trại công nghệ cao xuất bán gần 30.000 con lợn để xử lý ô nhiễm,https://thanhnien.vn/trang-trai-cong-nghe-cao-xuat-ban-gan-30000-con-lon-de-xu-ly-o-nhiem-185240801090131689.htm
+37,6,01-08-2024,Bình Thuận: Đường ngàn tỉ vướng mỏ titan 'không chắc chắn khi nào hoàn thành',https://thanhnien.vn/binh-thuan-duong-ngan-ti-vuong-mo-titan-khong-chac-chan-khi-nao-hoan-thanh-185240801113129821.htm
+38,6,01-08-2024,"Bộ Công an đề xuất quy định mới về chỉ huy, điều khiển giao thông",https://thanhnien.vn/bo-cong-an-de-xuat-quy-dinh-moi-ve-chi-huy-dieu-khien-giao-thong-185240801111047986.htm
+39,6,01-08-2024,"'Ăn chặn' 53 triệu đồng của đội văn nghệ, cựu trưởng bản bị khởi tố",https://thanhnien.vn/an-chan-53-trieu-dong-cua-doi-van-nghe-cuu-truong-ban-bi-khoi-to-185240801121017957.htm
+40,6,01-08-2024,"Quốc lộ 16 sụt lún, Bộ GTVT công bố tình huống khẩn cấp về thiên tai",https://thanhnien.vn/quoc-lo-16-sut-lun-cong-bo-tinh-huong-khan-cap-ve-thien-tai-185240801111053387.htm
+41,1,01-08-2024,Ông Trần Thanh Toàn giữ chức vụ Chánh thanh tra tỉnh Bình Thuận,https://thanhnien.vn/ong-tran-thanh-toan-giu-chuc-vu-chanh-thanh-tra-tinh-binh-thuan-185240801121238591.htm
+42,6,01-08-2024,"Đà Nẵng giảm 9 phường: Tại sao P.Thạch Thang chỉ rộng 1,02 km2 không bị sáp nhập?",https://thanhnien.vn/da-nang-giam-9-phuong-tai-sao-pthach-thang-chi-rong-102-km2-khong-bi-sap-nhap-185240801112451881.htm
+43,6,01-08-2024,Điều tra vụ cháy lớn tại kho gỗ ở Quy Nhơn,https://thanhnien.vn/dieu-tra-vu-chay-lon-tai-kho-go-o-quy-nhon-185240801112105498.htm
+44,1,01-08-2024,Gia Lai: Hơn 100 ngôi mộ bị đập phá,https://thanhnien.vn/gia-lai-hon-100-ngoi-mo-bi-dap-pha-185240801105521531.htm
+45,6,01-08-2024,"Từ 1.8, lãnh đạo TP.HCM không nhận văn bản giấy",https://thanhnien.vn/tu-18-lanh-dao-tphcm-khong-nhan-van-ban-giay-185240801105822557.htm
+46,6,01-08-2024,"Dùng sim 'rác' lừa mua bán tôm, chiếm đoạt tiền đặt cọc",https://thanhnien.vn/dung-sim-rac-lua-mua-ban-tom-chiem-doat-tien-dat-coc-185240801094612246.htm
+47,6,01-08-2024,Xe tải cẩu cán người phụ nữ bán vé số tại cây xăng,https://thanhnien.vn/xe-tai-cau-can-nguoi-phu-nu-ban-ve-so-tai-cay-xang-185240801093059936.htm
+48,6,01-08-2024,"Công an điều tra vụ bị chiếm đoạt 6,2 tỉ đồng khi nhờ bạn vay ngân hàng",https://thanhnien.vn/cong-an-dieu-tra-vu-bi-chiem-doat-62-ti-dong-khi-nho-ban-vay-ngan-hang-185240801055714713.htm
+49,1,01-08-2024,"Lừa đảo chuyển tiền ngân hàng, 1 luật sư Mỹ mất khoảng 19 tỉ đồng",https://thanhnien.vn/lua-dao-chuyen-tien-ngan-hang-1-luat-su-my-mat-khoang-19-ti-dong-185240801095205552.htm
+50,1,01-08-2024,Dư chấn động đất: Quảng Nam yêu cầu 'phát hiện kịp thời các dấu hiệu bất thường',https://thanhnien.vn/du-chan-dong-dat-quang-nam-yeu-cau-phat-hien-kip-thoi-cac-dau-hieu-bat-thuong-185240801092646528.htm
+51,4,01-08-2024,Giải cứu người đi xe máy rơi xuống vực bên đèo Prenn trong đêm,https://thanhnien.vn/giai-cuu-nguoi-di-xe-may-roi-xuong-vuc-ben-deo-prenn-trong-dem-185240801063544524.htm
+52,2,01-08-2024,Thủ tướng: 'Chúng ta đi đâu cũng tự hào là người Việt Nam',https://thanhnien.vn/thu-tuong-chung-ta-di-dau-cung-tu-hao-la-nguoi-viet-nam-18524073121204177.htm
+53,1,01-08-2024,Đảm bảo chất lượng văn kiện và nhân sự đại hội đảng bộ các cấp,https://thanhnien.vn/dam-bao-chat-luong-van-kien-va-nhan-su-dai-hoi-dang-bo-cac-cap-185240731234134776.htm
+54,1,31-07-2024,'Chính phủ Ấn Độ rất coi trọng chuyến thăm cấp nhà nước của Thủ tướng',https://thanhnien.vn/chinh-phu-an-do-rat-coi-trong-chuyen-tham-cap-nha-nuoc-cua-thu-tuong-185240731210142159.htm
+55,6,31-07-2024,Cấp giấy khai sinh cho trẻ có hoàn cảnh đặc biệt,https://thanhnien.vn/cap-giay-khai-sinh-cho-tre-co-hoan-canh-dac-biet-185240731213158641.htm
+56,6,31-07-2024,"Nhận hối lộ từ doanh nghiệp trúng thầu, cựu chủ tịch quận lãnh 9 năm tù",https://thanhnien.vn/nhan-hoi-lo-tu-doanh-nghiep-trung-thau-cuu-chu-tich-quan-lanh-9-nam-tu-185240731152337799.htm
+57,1,31-07-2024,"Các tập đoàn dầu khí, công nghệ hàng đầu Ấn Độ muốn đầu tư vào Việt Nam",https://thanhnien.vn/cac-tap-doan-dau-khi-cong-nghe-hang-dau-an-do-muon-dau-tu-vao-viet-nam-185240731182957907.htm
+58,6,31-07-2024,"'Bắt được' 51 triệu, anh thanh niên báo công an tìm trả người chuyển khoản nhầm",https://thanhnien.vn/bat-duoc-51-trieu-anh-thanh-nien-bao-cong-an-tim-tra-nguoi-chuyen-khoan-nham-185240731164824044.htm
+59,1,31-07-2024,Khẩn trương xử lý sự cố sạt lở hạ lưu cống ngang trên đèo Prenn,https://thanhnien.vn/khan-truong-xu-ly-su-co-sat-lo-ha-luu-cong-ngang-tren-deo-prenn-185240731172945554.htm
+60,1,31-07-2024,Bạc Liêu: Hai bé trai song sinh đuối nước tử vong trong ao tôm,https://thanhnien.vn/bac-lieu-hai-be-trai-song-sinh-duoi-nuoc-tu-vong-trong-ao-tom-185240731171818467.htm
+61,6,31-07-2024,"Nghiên cứu thực hiện các bảng lương, chế độ phụ cấp mới của khu vực công",https://thanhnien.vn/nghien-cuu-thuc-hien-cac-bang-luong-che-do-phu-cap-moi-cua-khu-vuc-cong-185240731171618799.htm
+62,1,31-07-2024,Cặp vợ chồng 'hờ' thủ 4 khẩu súng và lựu đạn để buôn bán ma túy,https://thanhnien.vn/cap-vo-chong-ho-thu-4-khau-sung-va-luu-dan-de-buon-ban-ma-tuy-18524073117023647.htm
+63,6,31-07-2024,"Ly kỳ vụ tranh chấp 13.000 m2 đất giữa 3 công ty, mãi chưa ngã ngũ",https://thanhnien.vn/ly-ky-vu-tranh-chap-13000-m2-dat-giua-3-cong-ty-mai-chua-nga-ngu-185240731165402779.htm
+64,5,31-07-2024,"Quảng Trị: Khởi tố 4 bị can bốc đầu xe, 'ra oai' với người xung quanh",https://thanhnien.vn/quang-tri-khoi-to-4-bi-can-boc-dau-xe-ra-oai-voi-nguoi-xung-quanh-185240731162209416.htm
+65,6,31-07-2024,Vì sao tỷ lệ hưởng lương hưu của lao động nam và nữ có sự chênh lệch?,https://thanhnien.vn/vi-sao-ty-le-huong-luong-huu-cua-lao-dong-nam-va-nu-co-su-chenh-lech-18524073116110749.htm
+66,4,31-07-2024,Bắt nhóm 8 người dàn cảnh móc túi tại lễ tốt nghiệp ở TP.HCM,https://thanhnien.vn/bat-nhom-8-nguoi-dan-canh-moc-tui-tai-le-tot-nghiep-o-tphcm-185240731172444485.htm
+67,1,31-07-2024,Việt Nam là trọng tâm trong 'chính sách hướng Đông' của Ấn Độ,https://thanhnien.vn/viet-nam-la-trong-tam-trong-chinh-sach-huong-dong-cua-an-do-185240731145014943.htm
+68,1,31-07-2024,Long An: Khởi tố bị can hoạt động nhằm lật đổ chính quyền,https://thanhnien.vn/long-an-khoi-to-bi-can-hoat-dong-nham-lat-do-chinh-quyen-185240731152917009.htm
+69,6,31-07-2024,"Chi hơn 9,3 tỉ đồng khắc phục sạt lở đường giao thông trong KDL hồ Tuyền Lâm",https://thanhnien.vn/chi-hon-93-ti-dong-khac-phuc-sat-lo-duong-giao-thong-trong-kdl-ho-tuyen-lam-185240731154508897.htm
+70,4,31-07-2024,TP.HCM: Bắt giám đốc công ty đa cấp đang bị truy nã,https://thanhnien.vn/tphcm-bat-giam-doc-cong-ty-da-cap-dang-bi-truy-na-185240731160136455.htm
+71,6,31-07-2024,Bắc Ninh có tân chủ tịch UBND tỉnh,https://thanhnien.vn/bac-ninh-co-tan-chu-tich-ubnd-tinh-18524073115351085.htm
+72,6,31-07-2024,"Chủ tịch nước Tô Lâm: Đẩy mạnh cải cách tư pháp, chống bảo thủ, cục bộ",https://thanhnien.vn/chu-tich-nuoc-to-lam-day-manh-cai-cach-tu-phap-chong-bao-thu-cuc-bo-185240731151021263.htm
+73,6,31-07-2024,TAND TP.HCM thông báo gì đến 35.000 người mua trái phiếu trong vụ án Trương Mỹ Lan?,https://thanhnien.vn/tand-tphcm-thong-bao-gi-den-35000-nguoi-mua-trai-phieu-trong-vu-an-truong-my-lan-185240731153225608.htm
+74,4,31-07-2024,"Nhớ lại chuyện bị đánh ghen, cha chồng sát hại con dâu",https://thanhnien.vn/nho-lai-chuyen-bi-danh-ghen-cha-chong-sat-hai-con-dau-185240731133856748.htm
+75,6,31-07-2024,Bà Nguyễn Hương Giang làm Chủ tịch HĐND tỉnh Bắc Ninh,https://thanhnien.vn/ba-nguyen-huong-giang-lam-chu-tich-hdnd-tinh-bac-ninh-185240731151731485.htm
+76,1,31-07-2024,Doanh nghiệp 'bỏ lại' bãi rác thải 10.000 tấn gây ô nhiễm môi trường,https://thanhnien.vn/doanh-nghiep-bo-lai-bai-rac-thai-10000-tan-gay-o-nhiem-moi-truong-185240730221144349.htm
+77,6,31-07-2024,Đắk Lắk: TP.Buôn Ma Thuột sáp nhập 2 phường,https://thanhnien.vn/dak-lak-tpbuon-ma-thuot-sap-nhap-2-phuong-185240731144735926.htm
+78,6,31-07-2024,Công an ‘xới tung’ mặt hồ ken đặc củi rác tìm người bị lũ cuốn,https://thanhnien.vn/cong-an-xoi-tung-mat-ho-ken-dac-cui-rac-tim-nguoi-bi-lu-cuon-185240731141857653.htm
+79,2,31-07-2024,"Tây Ninh: Bắt bị can làm giả ủy quyền, lừa bán đất chiếm đoạt hơn 10 tỉ đồng",https://thanhnien.vn/tay-ninh-bat-bi-can-lam-gia-uy-quyen-lua-ban-dat-chiem-doat-hon-10-ti-dong-185240731143353108.htm
+80,6,31-07-2024,Ông Nguyễn Trọng Nghĩa: Công tác dư luận xã hội phải bám sát hơi thở cuộc sống,https://thanhnien.vn/ong-nguyen-trong-nghia-cong-tac-du-luan-xa-hoi-phai-bam-sat-hoi-tho-cuoc-song-185240731143736204.htm
+81,6,31-07-2024,"Liên tục có người thiệt mạng do mưa lũ, Bộ NN-PTNT chỉ đạo nóng",https://thanhnien.vn/lien-tuc-co-nguoi-thiet-mang-do-mua-lu-bo-nn-ptnt-chi-dao-nong-185240731142742932.htm
+82,1,31-07-2024,Tập đoàn Ấn Độ muốn đầu tư 'công viên dược' tỉ USD tại Việt Nam,https://thanhnien.vn/tap-doan-an-do-muon-dau-tu-cong-vien-duoc-ti-usd-tai-viet-nam-185240731130010432.htm
+83,1,31-07-2024,Thủ tướng đề nghị tập đoàn lớn nhất Ấn Độ đầu tư sân bay Chu Lai,https://thanhnien.vn/thu-tuong-de-nghi-tap-doan-lon-nhat-an-do-dau-tu-san-bay-chu-lai-185240731113701998.htm
+84,1,31-07-2024,Công an tỉnh Phú Yên phát hiện doanh nghiệp mỹ phẩm có dấu hiệu trốn thuế,https://thanhnien.vn/cong-an-tinh-phu-yen-phat-hien-doanh-nghiep-my-pham-co-dau-hieu-tron-thue-185240731105818885.htm
+85,6,31-07-2024,"Cựu nhân viên thu hồi nợ trái luật bị tuyên án đến 4,5 năm tù",https://thanhnien.vn/cuu-nhan-vien-thu-hoi-no-trai-luat-bi-tuyen-an-den-45-nam-tu-185240731121801207.htm
+86,6,31-07-2024,Cựu Phó chủ tịch tỉnh Phú Thọ Hồ Đại Dũng bị bắt vì đánh bạc,https://thanhnien.vn/cuu-pho-chu-tich-tinh-phu-tho-ho-dai-dung-bi-bat-vi-danh-bac-185240731121632962.htm
+87,1,31-07-2024,"Bà Rịa-Vũng Tàu: Công trình xây dựng không phép, bị phạt lại trở thành khách sạn",https://thanhnien.vn/ba-ria-vung-tau-cong-trinh-xay-dung-khong-phep-bi-phat-lai-tro-thanh-khach-san-185240731105803422.htm
+88,6,31-07-2024,Dự án cầu Rạch Miễu 2 nối cáp dây văng trụ tháp đầu tiên,https://thanhnien.vn/du-an-cau-rach-mieu-2-noi-cap-day-vang-tru-thap-dau-tien-185240731100835239.htm
+89,6,31-07-2024,"Tài xế tự đâm vào ngực, đốt đồ trên ô tô sau va chạm giao thông",https://thanhnien.vn/tai-xe-tu-dam-vao-nguc-dot-do-tren-o-to-sau-va-cham-giao-thong-185240731113550181.htm
+90,6,31-07-2024,"Làm rõ trách nhiệm sau vụ tàu hỏa tông ô tô tải, 2 người tử vong",https://thanhnien.vn/lam-ro-trach-nhiem-sau-vu-tau-hoa-tong-o-to-tai-2-nguoi-tu-vong-18524073110513106.htm
+91,6,31-07-2024,Chuẩn bị xét xử cựu Chủ tịch Tập đoàn Vimedimex Nguyễn Thị Loan,https://thanhnien.vn/chuan-bi-xet-xu-cuu-chu-tich-tap-doan-vimedimex-nguyen-thi-loan-185240731104217066.htm
+92,6,31-07-2024,"Cho người lạ đi nhờ, nam công nhân bị sát hại, cướp xe",https://thanhnien.vn/cho-nguoi-la-di-nho-nam-cong-nhan-bi-sat-hai-cuop-xe-185240731111005655.htm
+93,6,31-07-2024,Bãi nhiệm và miễn nhiệm 2 Phó chủ tịch UBND tỉnh Vĩnh Phúc,https://thanhnien.vn/bai-nhiem-va-mien-nhiem-2-pho-chu-tich-ubnd-tinh-vinh-phuc-185240731104613912.htm
+94,6,31-07-2024,Công trình xây dựng trái phép ở TP.HCM giảm kỷ lục,https://thanhnien.vn/cong-trinh-xay-dung-trai-phep-o-tphcm-giam-ky-luc-185240731103904675.htm
+95,6,31-07-2024,"Tháng 8, người nghỉ hưu nhận lương hưu vào ngày nào?",https://thanhnien.vn/thang-8-nguoi-nghi-huu-nhan-luong-huu-vao-ngay-nao-18524073110414205.htm
+96,2,31-07-2024,Thứ trưởng Bộ KH-CN được chỉ định làm Phó bí thư Tỉnh ủy Quảng Ngãi,https://thanhnien.vn/thu-truong-bo-kh-cn-duoc-chi-dinh-lam-pho-bi-thu-tinh-uy-quang-ngai-185240731100740746.htm
+97,6,31-07-2024,Phát hiện một người nước ngoài trôi dạt tại bãi triều ven biển Thái Bình,https://thanhnien.vn/phat-hien-mot-nguoi-nuoc-ngoai-troi-dat-tai-bai-trieu-ven-bien-thai-binh-185240731101004671.htm
+98,6,31-07-2024,Xét xử 7 cựu nhân viên thu hồi nợ do cưỡng đoạt tài sản,https://thanhnien.vn/xet-xu-7-nhan-vien-thu-hoi-no-cong-ty-f88-cuong-doat-tai-san-185240731101231765.htm
+99,6,31-07-2024,"Công an tỉnh Bình Thuận luân chuyển, bổ nhiệm nhiều lãnh đạo phòng nghiệp vụ",https://thanhnien.vn/cong-an-tinh-binh-thuan-luan-chuyen-bo-nhiem-nhieu-lanh-dao-phong-nghiep-vu-185240731092734219.htm
+100,6,31-07-2024,Công an bơi thuyền tiếp tế lương thực cho dân nơi rốn lũ Hà Nội,https://thanhnien.vn/cong-an-boi-thuyen-tiep-te-luong-thuc-cho-dan-noi-ron-lu-ha-noi-185240731094804491.htm
+101,2,31-07-2024,Ông Trần Duy Đông làm Chủ tịch UBND tỉnh Vĩnh Phúc,https://thanhnien.vn/ong-tran-duy-dong-lam-chu-tich-ubnd-tinh-vinh-phuc-185240731093102185.htm
+102,6,31-07-2024,"Những quy định mới về giá đất, môi giới bất động sản, sở hữu nhà chung cư",https://thanhnien.vn/nhung-quy-dinh-moi-ve-gia-dat-moi-gioi-bat-dong-san-so-huu-nha-chung-cu-185240731085928777.htm
+103,6,31-07-2024,Đà Nẵng: Sốt ruột với thủ tục xây dựng các công trình ứng phó thiên tai,https://thanhnien.vn/da-nang-sot-ruot-voi-thu-tuc-xay-dung-cac-cong-trinh-ung-pho-thien-tai-185240730220425346.htm
+104,4,31-07-2024,Giúp du khách Nhật Bản tìm 60 triệu đồng trong túi xách rơi ở vịnh Đà Nẵng,https://thanhnien.vn/giup-du-khach-nhat-ban-tim-60-trieu-dong-trong-tui-xach-roi-o-vinh-da-nang-185240731072153972.htm
+105,6,31-07-2024,Đà Nẵng giảm 9 phường: Cán bộ dôi dư sẽ được hỗ trợ ra sao?,https://thanhnien.vn/da-nang-giam-9-phuong-can-bo-doi-du-se-duoc-ho-tro-ra-sao-185240730224806129.htm
+106,6,31-07-2024,Cần mạnh tay với doanh nghiệp trốn đóng BHXH,https://thanhnien.vn/can-manh-tay-voi-doanh-nghiep-tron-dong-bhxh-185240730225146442.htm
+107,6,31-07-2024,EU coi Việt Nam là đối tác hàng đầu tại khu vực,https://thanhnien.vn/eu-coi-viet-nam-la-doi-tac-hang-dau-tai-khu-vuc-185240730224627531.htm
+108,1,31-07-2024,Ấn Độ chào đón Thủ tướng Phạm Minh Chính bằng điệu múa truyền thống,https://thanhnien.vn/an-do-chao-don-thu-tuong-pham-minh-chinh-bang-dieu-mua-truyen-thong-185240731020048336.htm
+109,6,31-07-2024,Tin tức thời tiết hôm nay 31.7.2024: Miền Bắc có nơi mưa 200 mm trong 24 giờ,https://thanhnien.vn/tin-tuc-thoi-tiet-hom-nay-3172024-mien-bac-co-noi-mua-200-mm-trong-24-gio-185240731062512956.htm
+110,1,31-07-2024,Xử lý các hành vi tiêu cực trong thi hành pháp luật,https://thanhnien.vn/xu-ly-cac-hanh-vi-tieu-cuc-trong-thi-hanh-phap-luat-185240730224234871.htm
+111,6,31-07-2024,4 tỉnh miền Bắc thiệt hại nghiêm trọng do mưa lũ,https://thanhnien.vn/4-tinh-mien-bac-thiet-hai-nghiem-trong-do-mua-lu-185240730223024832.htm
+112,4,31-07-2024,"Sâm Việt giữa muôn vàn khó khăn: Mua sâm ở Lai Châu, thượng vàng hạ cám",https://thanhnien.vn/sam-viet-giua-muon-van-kho-khan-mua-sam-o-lai-chau-thuong-vang-ha-cam-185240730183153182.htm
+113,6,31-07-2024,Cảnh giác để tránh sập bẫy bị ghép 'ảnh nóng',https://thanhnien.vn/canh-giac-de-tranh-sap-bay-bi-ghep-anh-nong-185240730190839645.htm
+114,1,31-07-2024,Tai nạn lao động khiến 5 công nhân thiệt mạng,https://thanhnien.vn/tai-nan-lao-dong-khien-5-cong-nhan-thiet-mang-185240730223529817.htm
+115,6,31-07-2024,'Đại án' đăng kiểm: Bị cáo trình bày 'lý do' nhận hối lộ,https://thanhnien.vn/dai-an-dang-kiem-bi-cao-trinh-bay-ly-do-nhan-hoi-lo-185240730223249675.htm
+116,6,31-07-2024,Thủ tướng Phạm Minh Chính thăm cấp nhà nước tới Ấn Độ,https://thanhnien.vn/thu-tuong-pham-minh-chinh-tham-cap-nha-nuoc-toi-an-do-185240730223632269.htm
+117,6,31-07-2024,Cận cảnh những căn 'biệt thự ma' sắp bị tháo dỡ tại Măng Đen,https://thanhnien.vn/can-canh-nhung-can-biet-thu-ma-sap-bi-thao-do-tai-mang-den-185240730150629827.htm
+118,1,31-07-2024,"Qualcomm ra mắt nền tảng di động mới, đưa 5G tiếp cận hàng triệu người dùng điện thoại",https://vneconomy.vn/qualcomm-ra-mat-nen-tang-di-dong-moi-dua-5g-tiep-can-hang-trieu-nguoi-dung-dien-thoai.htm
+119,1,31-07-2024,"Khen thưởng phải thực chất, đúng người, đúng việc, không quá máy móc và xứng đáng với đóng góp",https://www.congluan.vn/khen-thuong-phai-thuc-chat-dung-nguoi-dung-viec-khong-qua-may-moc-va-xung-dang-voi-dong-gop-post305745.html
+120,1,31-07-2024,Bà Nguyễn Hương Giang được bầu giữ chức Chủ tịch HĐND tỉnh Bắc Ninh,https://www.congluan.vn/ba-nguyen-huong-giang-duoc-bau-giu-chuc-chu-tich-hdnd-tinh-bac-ninh-post305721.html
+121,5,01-08-2024,Xạ thủ Hàn Quốc khiến tỷ phú Elon Musk trầm trồ,https://lifestyle.zingnews.vn/xa-thu-han-quoc-khien-ty-phu-elon-musk-tram-tro-post1489460.html
+122,6,01-08-2024,"Nghịch lý lạnh run giữa mùa hè trong văn phòng, quán cà phê ở TP.HCM",https://lifestyle.zingnews.vn/nghich-ly-lanh-run-giua-mua-he-trong-van-phong-quan-ca-phe-o-tphcm-post1489132.html
+123,3,01-08-2024,Đẩy lùi nếp nhăn nhờ trà hoa cúc,https://lifestyle.zingnews.vn/day-lui-nep-nhan-nho-tra-hoa-cuc-post1489023.html
+124,6,01-08-2024,Trung Quốc trải qua tháng 7 nóng nhất lịch sử hiện đại,https://lifestyle.zingnews.vn/trung-quoc-trai-qua-thang-7-nong-nhat-lich-su-hien-dai-post1489483.html
+125,6,01-08-2024,VĐV bơi lội bị loại vì ở dưới nước quá lâu tại Olympic Paris,https://lifestyle.zingnews.vn/vdv-boi-loi-bi-loai-vi-o-duoi-nuoc-qua-lau-tai-olympic-paris-post1489471.html
+126,6,02-08-2024,Hé lộ tình hình cuộc sống hiện tại của Hiền Hồ sau 2 năm vướng phải ồn ào làm người thứ 3,https://doanhnghiepvn.vn/van-hoa/he-lo-tinh-hinh-cuoc-song-hien-tai-cua-hien-ho-sau-2-nam-vuong-phai-on-ao-lam-nguoi-thu-3/20240801091242115
+127,1,31-07-2024,Giá dầu hôm nay (31/7): Dầu thô tiếp tục giảm nhẹ,https://petrovietnam.petrotimes.vn/gia-dau-hom-nay-317-dau-tho-tiep-tuc-giam-nhe-715140.html
+128,6,31-07-2024,"VCCI đề xuất bỏ giá trần, cho phép thương nhân phân phối mua bán xăng dầu với nhau",https://petrovietnam.petrotimes.vn/vcci-de-xuat-bo-gia-tran-cho-phep-thuong-nhan-phan-phoi-mua-ban-xang-dau-voi-nhau-715154.html
+129,1,01-08-2024,Nga gia hạn lệnh cấm xuất khẩu xăng,https://petrotimes.vn/nga-gia-han-lenh-cam-xuat-khau-xang-715196.html
+130,1,01-08-2024,Giá dầu hôm nay (1/8): Tăng trở lại,https://petrotimes.vn/gia-dau-hom-nay-18-tang-tro-lai-715202.html
+131,2,01-08-2024,Giá vàng hôm nay (1/8): Đồng loạt tăng,https://petrotimes.vn/gia-vang-hom-nay-18-dong-loat-tang-715207.html
+132,6,01-08-2024,Bản tin Năng lượng Quốc tế 1/8: Diễn biến giá dầu sau căng thẳng leo thang ở Trung Đông,https://petrotimes.vn/ban-tin-nang-luong-quoc-te-18-dien-bien-gia-dau-sau-cang-thang-leo-thang-o-trung-dong-715193.html
+133,6,01-08-2024,Bán niên Eximbank mới thực hiện được 28% kế hoạch năm,https://petrotimes.vn/ban-nien-eximbank-moi-thuc-hien-duoc-28-ke-hoach-nam-715194.html
+134,6,01-08-2024,"Kiểm soát tốt chi phí vốn, VPBank tối ưu cơ hội kinh doanh",https://petrotimes.vn/kiem-soat-tot-chi-phi-von-vpbank-toi-uu-co-hoi-kinh-doanh-715186.html
+135,6,31-07-2024,Tin tức kinh tế ngày 31/7: Nhu cầu vàng miếng tại Việt Nam tăng cao nhất trong 10 năm,https://petrotimes.vn/tin-tuc-kinh-te-ngay-317-nhu-cau-vang-mieng-tai-viet-nam-tang-cao-nhat-trong-10-nam-715178.html
+136,6,31-07-2024,"VCCI đề xuất bỏ giá trần, cho phép thương nhân phân phối mua bán xăng dầu với nhau",https://petrotimes.vn/vcci-de-xuat-bo-gia-tran-cho-phep-thuong-nhan-phan-phoi-mua-ban-xang-dau-voi-nhau-715154.html
+137,1,31-07-2024,Giá dầu hôm nay (31/7): Dầu thô tiếp tục giảm nhẹ,https://petrotimes.vn/gia-dau-hom-nay-317-dau-tho-tiep-tuc-giam-nhe-715140.html
+138,2,31-07-2024,Giá vàng hôm nay (31/7): Thị trường trong nước và thế giới trái chiều,https://petrotimes.vn/gia-vang-hom-nay-317-thi-truong-trong-nuoc-va-the-gioi-trai-chieu-715142.html
+139,4,31-07-2024,Bản tin Năng lượng Quốc tế 31/7: Tồn kho dầu thô Mỹ lại giảm,https://petrotimes.vn/ban-tin-nang-luong-quoc-te-317-ton-kho-dau-tho-my-lai-giam-715130.html
+140,2,31-07-2024,"FPT Retail đạt doanh thu gần 20 ngàn tỷ bán niên, Long Châu mở mới hơn 200 nhà thuốc",https://petrotimes.vn/fpt-retail-dat-doanh-thu-gan-20-ngan-ty-ban-nien-long-chau-mo-moi-hon-200-nha-thuoc-715126.html
+141,6,31-07-2024,California được chọn làm trung tâm hydro quốc gia của Mỹ,https://petrotimes.vn/california-duoc-chon-lam-trung-tam-hydro-quoc-gia-cua-my-715145.html
+142,6,31-07-2024,Henry Hub: Trung tâm phân phối và đường ống khí đốt tự nhiên hàng đầu nước Mỹ,https://petrotimes.vn/henry-hub-trung-tam-phan-phoi-va-duong-ong-khi-dot-tu-nhien-hang-dau-nuoc-my-715136.html
+143,6,31-07-2024,"BP thu hẹp dự án nhiên liệu sinh học, tập trung vào nhu cầu dầu",https://petrotimes.vn/bp-thu-hep-du-an-nhien-lieu-sinh-hoc-tap-trung-vao-nhu-cau-dau-715132.html
+144,6,01-08-2024,Ra mắt Fanpage Công an tỉnh Đồng Nai,https://www.sggp.org.vn/ra-mat-fanpage-cong-an-tinh-dong-nai-post752028.html
+145,6,01-08-2024,Đất Đỏ với công tác chăm sóc người có công,https://www.sggp.org.vn/dat-do-voi-cong-tac-cham-soc-nguoi-co-cong-post752038.html
+146,6,01-08-2024,Cảnh báo tai nạn lao động trong xưởng gỗ,https://www.sggp.org.vn/canh-bao-tai-nan-lao-dong-trong-xuong-go-post752039.html
+147,5,01-08-2024,Trợ lực để ngành sản xuất thực phẩm bứt phá,https://www.sggp.org.vn/tro-luc-de-nganh-san-xuat-thuc-pham-but-pha-post752014.html

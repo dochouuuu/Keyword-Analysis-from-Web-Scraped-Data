@@ -1,0 +1,450 @@
+id,category_id,timestamp,title,url
+1,6,15-04-2022,Hiện thực hóa quyết tâm để kinh tế phục hồi,https://thoibaonganhang.vn/hien-thuc-hoa-quyet-tam-de-kinh-te-phuc-hoi-126319.html
+2,6,26-03-2022,Bảo mật tốt hơn qua ứng dụng AI,https://thoibaonganhang.vn/bao-mat-tot-hon-qua-ung-dung-ai-125597.html
+3,6,01-02-2022,Điều hành chính sách tiền tệ góp phần an dân,https://thoibaonganhang.vn/dieu-hanh-chinh-sach-tien-te-gop-phan-an-dan-124049-124049.html
+4,6,22-01-2022,Nới room ngoại: Cân nhắc tính hiệu quả và an toàn,https://thoibaonganhang.vn/noi-room-ngoai-can-nhac-tinh-hieu-qua-va-an-toan-123763.html
+5,2,15-01-2022,Kinh doanh ngân hàng sẽ khởi sắc,https://thoibaonganhang.vn/kinh-doanh-ngan-hang-se-khoi-sac-123495.html
+6,6,27-06-2024,Giá xăng dầu cùng tăng trong kỳ điều hành 27/6,https://thoibaonganhang.vn/infographic-gia-xang-dau-cung-tang-trong-ky-dieu-hanh-276-152969.html
+7,6,20-06-2024,"Xuất, nhập khẩu hàng hóa kỳ 1 tháng 6/2024",https://thoibaonganhang.vn/infographic-xuat-nhap-khau-hang-hoa-ky-1-thang-62024-152763.html
+8,6,06-06-2024,"Giá xăng, dầu cùng giảm",https://thoibaonganhang.vn/infographic-gia-xang-dau-cung-giam-152396.html
+9,6,04-06-2024,Xuất khẩu nông lâm thủy sản 5 tháng năm 2024,https://thoibaonganhang.vn/infographic-xuat-khau-nong-lam-thuy-san-5-thang-nam-2024-152318.html
+10,4,05-03-2024,"Xem nghệ nhân Nguyễn Bá Châu ""thổi hồn"" vào những chiếc trống đồng tinh xảo",https://congthuong.vn/xem-nghe-nhan-nguyen-ba-chau-thoi-hon-vao-nhung-chiec-trong-dong-tinh-xao-306856.html
+11,6,23-02-2024,Nghệ An: Có thêm 9 sản phẩm OCOP cấp tỉnh,https://congthuong.vn/nghe-an-co-them-9-san-pham-ocop-cap-tinh-304878.html
+12,6,23-07-2024,Dự báo nào cho xuất khẩu sầu riêng năm 2024?,https://congthuong.vn/du-bao-nao-cho-xuat-khau-sau-rieng-nam-2024-334209.html
+13,6,19-07-2024,"6 tháng đầu năm 2024, người Việt đã mua sắm 3.448 ô tô hybrid",https://congthuong.vn/6-thang-dau-nam-2024-nguoi-viet-da-mua-sam-3448-o-to-hybrid-333178.html
+14,6,15-07-2024,Vì sao Quảng Ngãi tự tin đạt trên 100% kế hoạch sản xuất công nghiệp?,https://congthuong.vn/vi-sao-quang-ngai-tu-tin-dat-tren-100-ke-hoach-san-xuat-cong-nghiep-332456.html
+15,6,18-07-2024,Hưng Yên: Xử phạt Công ty Vadoto bán hàng không thông báo website thương mại điện tử theo quy định,https://congthuong.vn/hung-yen-xu-phat-cong-ty-vadoto-ban-hang-khong-thong-bao-website-thuong-mai-dien-tu-theo-quy-dinh-333085.html
+16,1,13-07-2024,"Các Luật chính thức có hiệu lực từ 1/8, cơ hội nào cho nhà đầu tư bất động sản?",https://congthuong.vn/cac-luat-chinh-thuc-co-hieu-luc-tu-18-co-hoi-nao-cho-nha-dau-tu-bat-dong-san-331894.html
+17,6,24-07-2024,Thừa Thiên Huế: Truy tặng Huân chương Bảo vệ Tổ quốc cho Phó trưởng Công an phường Thuỷ Vân,https://congthuong.vn/thua-thien-hue-truy-tang-huan-chuong-bao-ve-to-quoc-cho-pho-truong-cong-an-phuong-thuy-van-334565.html
+18,4,24-07-2024,Giá xăng dầu trong kỳ điều hành ngày mai 25/7 dự báo có thể giảm phiên thứ 3 tiếp?,https://congthuong.vn/gia-xang-dau-trong-ky-dieu-hanh-ngay-mai-257-du-bao-co-the-giam-phien-thu-3-tiep-334421.html
+19,6,25-07-2024,"Từ 18h ngày hôm nay 25/7, Nhân dân có thể vào viếng Tổng Bí thư Nguyễn Phú Trọng",https://congthuong.vn/tu-18h-ngay-hom-nay-257-nhan-dan-co-the-vao-vieng-tong-bi-thu-nguyen-phu-trong-334721.html
+20,6,17-07-2024,‘Mức giảm trừ gia cảnh hiện nay đã lạc hậu!’,https://congthuong.vn/muc-giam-tru-gia-canh-hien-nay-da-lac-hau-332786.html
+21,6,23-07-2024,Phục dựng ảnh màu chân dung 10 nữ liệt sĩ dân quân Lam Hạ,https://kinhte.congthuong.vn/phuc-dung-anh-mau-chan-dung-10-nu-liet-si-dan-quan-lam-ha-334247.html
+22,6,23-07-2024,Kiểm soát an ninh hàng không cấp độ 1 trong dịp tang lễ Tổng Bí thư Nguyễn Phú Trọng,https://kinhte.congthuong.vn/kiem-soat-an-ninh-hang-khong-cap-do-1-trong-dip-tang-le-tong-bi-thu-nguyen-phu-trong-334161.html
+23,6,23-07-2024,Chứng khoán hôm nay 23/7/2024: Nhóm ngân hàng có thể sẽ tiếp tục dẫn dắt xu hướng của thị trường,https://kinhte.congthuong.vn/chung-khoan-hom-nay-2372024-nhom-ngan-hang-co-the-se-tiep-tuc-dan-dat-xu-huong-cua-thi-truong-334118.html
+24,6,25-07-2024,"XSMB 26/7, Kết quả xổ số miền Bắc hôm nay 26/7/2024, xổ số miền Bắc 26 tháng 7, trực tiếp XSMB 26/7",https://congthuong.vn/xsmb-267-ket-qua-xo-so-mien-bac-hom-nay-2672024-xo-so-mien-bac-26-thang-7-truc-tiep-xsmb-267-334692.html
+25,1,24-07-2024,"Thanh Hóa: Đình chỉ khai thác, xử phạt Công ty Việt Lào gần 200 triệu đồng",https://congthuong.vn/thanh-hoa-dinh-chi-khai-thac-xu-phat-cong-ty-viet-lao-gan-200-trieu-dong-334408.html
+26,6,22-07-2024,Cổ phiếu Quốc Cường Gia Lai (QCG) liên tục ‘nằm sàn’ sau khi bà Nguyễn Thị Như Loan bị bắt,https://congthuong.vn/co-phieu-quoc-cuong-gia-lai-qcg-lien-tuc-nam-san-sau-khi-ba-nguyen-thi-nhu-loan-bi-bat-333967.html
+27,6,18-07-2024,Thuỷ điện từ đầu năm hoạt động ra sao?,https://congthuong.vn/thuy-dien-tu-dau-nam-hoat-dong-ra-sao-333195.html
+28,4,12-07-2024,"500 phóng viên, biên tập viên hào hứng tham gia giải chạy 'Vì Làn sóng khỏe'",https://congthuong.vn/500-phong-vien-bien-tap-vien-hao-hung-tham-gia-giai-chay-vi-lan-song-khoe-331656.html
+29,6,28-06-2024,Liên hoan văn hóa ẩm thực xứ Thanh 2024: Nông sản Việt “trẩy hội”,https://congthuong.vn/lien-hoan-van-hoa-am-thuc-xu-thanh-2024-nong-san-viet-tray-hoi-328890.html
+30,6,09-06-2024,"Hừng hực khí thế ""về đích"" tiến độ thi công đường dây 500kV mạch 3",https://congthuong.vn/hung-huc-khi-the-ve-dich-tien-do-thi-cong-duong-day-500kv-mach-3-325172.html
+31,1,04-06-2024,"Thanh Hóa: Công nhân ''đội nắng'' quyết tâm đưa Dự án đường dây 500kV mạch 3 ""cán đích"" trước ""giờ G""",https://congthuong.vn/thanh-hoa-cong-nhan-doi-nang-quyet-tam-dua-du-an-duong-day-500kv-mach-3-can-dich-truoc-gio-g-324145.html
+32,6,15-05-2024,"Đường Láng mở rộng gấp đôi, điểm nóng ùn tắc sẽ được “hạ nhiệt”?",https://congthuong.vn/duong-lang-mo-rong-gap-doi-diem-nong-un-tac-se-duoc-ha-nhiet-320202.html
+33,6,10-05-2024,Hà Nội: Nhiều nhà chờ xe buýt bị chiếm dụng thành điểm tập kết phế liệu,https://congthuong.vn/ha-noi-nhieu-nha-cho-xe-buyt-bi-chiem-dung-thanh-diem-tap-ket-phe-lieu-319243.html
+34,6,09-05-2024,"Chùm ảnh: Bộ trưởng Nguyễn Hồng Diên kiểm tra tiến độ Nhà máy nhiệt điện Nhơn Trạch 3, 4",https://congthuong.vn/chum-anh-bo-truong-nguyen-hong-dien-kiem-tra-tien-do-nha-may-nhiet-dien-nhon-trach-3-4-319107.html
+35,1,29-04-2024,Ngắm “Con tàu tập kết” khổng lồ chuẩn bị hoàn thiện tại Sầm Sơn,https://congthuong.vn/ngam-con-tau-tap-ket-khong-lo-chuan-bi-hoan-thien-tai-sam-son-317374.html
+36,6,18-04-2024,Bình Dương: Bên trong khu công nghiệp đầu tiên được thí điểm di dời,https://congthuong.vn/binh-duong-ben-trong-khu-cong-nghiep-dau-tien-duoc-thi-diem-di-doi-315413.html
+37,6,01-04-2024,Công trường tuyến cao tốc nối 'biển và rừng',https://congthuong.vn/cong-truong-tuyen-cao-toc-noi-bien-va-rung-311946.html
+38,6,30-03-2024,"Hà Nội: Chợ Mai Động hoang tàn, tiểu thương bán thanh lý hàng gỡ vốn",https://congthuong.vn/ha-noi-cho-mai-dong-hoang-tan-tieu-thuong-ban-thanh-ly-hang-go-von-311802.html
+39,4,26-03-2024,"Thanh Hóa: Bò đột biến 6 chân, 2 đuôi, khách du lịch trả giá 5 tỷ đồng",https://congthuong.vn/thanh-hoa-bo-dot-bien-6-chan-2-duoi-khach-du-lich-tra-gia-5-ty-dong-310959.html
+40,2,25-03-2024,Về Thanh Hà xem nông dân thu hoạch mật ong hoa vải xuất khẩu sang Mỹ,https://congthuong.vn/ve-thanh-ha-xem-nong-dan-thu-hoach-mat-ong-hoa-vai-xuat-khau-sang-my-310646.html
+41,6,24-03-2024,Thanh Hóa: Đặc sắc Liên hoan văn nghệ dân gian - Phiên chợ vùng cao năm 2024,https://congthuong.vn/thanh-hoa-dac-sac-lien-hoan-van-nghe-dan-gian-phien-cho-vung-cao-nam-2024-310507.html
+42,6,12-03-2024,"""Địa chỉ đỏ"" tưởng nhớ, lưu giữ những kỷ vật của 64 chiến sĩ Gạc Ma",https://congthuong.vn/dia-chi-do-tuong-nho-luu-giu-nhung-ky-vat-cua-64-chien-si-gac-ma-307988.html
+43,6,08-03-2024,"Kiếm tiền triệu từ mùa làm ""ông tơ, bà nguyệt” tại làng bưởi đệ nhất danh thơm",https://congthuong.vn/kiem-tien-trieu-tu-mua-lam-ong-to-ba-nguyet-tai-lang-buoi-de-nhat-danh-thom-307471.html
+44,6,28-12-2023,Khánh Hòa: Tái hiện di sản văn hóa Chăm trong đêm nghệ thuật,https://congthuong.vn/khanh-hoa-tai-hien-di-san-van-hoa-cham-trong-dem-nghe-thuat-294545.html
+45,6,18-09-2023,"Chiêm ngưỡng bộ xương cá voi dài 18m, nặng 10 tấn ở Nha Trang",https://congthuong.vn/chiem-nguong-bo-xuong-ca-voi-dai-18m-nang-10-tan-o-nha-trang-272890.html
+46,6,15-09-2023,Cận cảnh tháo dỡ các tầng vi phạm của loạt biệt thự cao cấp ở Nha Trang,https://congthuong.vn/can-canh-thao-do-cac-tang-vi-pham-cua-loat-biet-thu-cao-cap-o-nha-trang-272214.html
+47,1,02-09-2023,Khánh Hòa: Nút giao nghìn tỷ thông xe kết nối giao thông 3/4 nhánh,https://congthuong.vn/khanh-hoa-nut-giao-nghin-ty-thong-xe-ket-noi-giao-thong-34-nhanh-270049.html
+48,4,02-09-2023,Lễ thượng cờ mừng Quốc khánh ở Khánh Hòa,https://congthuong.vn/le-thuong-co-mung-quoc-khanh-o-khanh-hoa-269999.html
+49,6,29-08-2023,Khánh Hòa sắp thông xe cầu Xóm Bóng sau gần 2 năm triển khai,https://congthuong.vn/khanh-hoa-sap-thong-xe-cau-xom-bong-sau-gan-2-nam-trien-khai-269169.html
+50,1,28-08-2023,Nút giao thông hơn 1.300 tỷ đồng tại Nha Trang trước ngày thông xe,https://congthuong.vn/nut-giao-thong-hon-1300-ty-dong-tai-nha-trang-truoc-ngay-thong-xe-269084.html
+51,6,27-07-2023,"Vẻ đẹp tự nhiên gốm sứ Đông Triều, dòng gốm sứ nặng lửa",https://kinhte.congthuong.vn/ve-dep-tu-nhien-gom-su-dong-trieu-dong-gom-su-nang-lua-264059.html
+52,4,27-07-2023,Mục sở thị sân khấu đón 67.000 khán giả trong 2 đêm diễn của Blackpink,https://kinhte.congthuong.vn/muc-so-thi-san-khau-don-67000-khan-gia-trong-2-dem-dien-cua-blackpink-264062.html
+53,6,03-06-2024,Thanh Hóa: Xuất khẩu sản phẩm OCOP sang các thị trường khó tính,https://congthuong.vn/thanh-hoa-xuat-khau-san-pham-ocop-sang-cac-thi-truong-kho-tinh-323995.html
+54,6,20-05-2024,Thừa Thiên Huế: Đẩy mạnh xúc tiến thương mại đối với sản phẩm OCOP,https://congthuong.vn/thua-thien-hue-day-manh-xuc-tien-thuong-mai-doi-voi-san-pham-ocop-321257.html
+55,6,06-05-2024,"Gameshow “Hành trình OCOP”: Thêm đôi cánh cho sản phẩm xã, phường",https://congthuong.vn/gameshow-hanh-trinh-ocop-them-doi-canh-cho-san-pham-xa-phuong-318459.html
+56,6,03-05-2024,OCOP Hậu Giang: Góp phần nâng cao giá trị nông sản,https://congthuong.vn/ocop-hau-giang-gop-phan-nang-cao-gia-tri-nong-san-318056.html
+57,6,30-04-2024,"Triển lãm sản phẩm đặc trưng, sản phẩm OCOP tỉnh Bình Thuận tại TP Hồ Chí Minh",https://congthuong.vn/trien-lam-san-pham-dac-trung-san-pham-ocop-tinh-binh-thuan-tai-tp-ho-chi-minh-318666.html
+58,5,18-04-2024,"Thanh Hóa: Nỗ lực phát triển sản phẩm OCOP, thúc đẩy kinh tế khu vực nông thôn phát triển",https://congthuong.vn/thanh-hoa-no-luc-phat-trien-san-pham-ocop-thuc-day-kinh-te-khu-vuc-nong-thon-phat-trien-315384.html
+59,6,17-04-2024,"Kết nối cung cầu, đưa sản phẩm OCOP Ninh Thuận vào kênh phân phối",https://congthuong.vn/ket-noi-cung-cau-dua-san-pham-ocop-ninh-thuan-vao-kenh-phan-phoi-315291.html
+60,1,13-04-2024,Sắp diễn ra phiên chợ hàng Việt về huyện đảo Phú Quý,https://congthuong.vn/sap-dien-ra-phien-cho-hang-viet-ve-huyen-dao-phu-quy-314607.html
+61,6,12-04-2024,Thương mại hóa hàng Việt trên nền tảng số,https://congthuong.vn/thuong-mai-hoa-hang-viet-tren-nen-tang-so-314278.html
+62,6,01-04-2024,Lâm Đồng: Macca Sao Vàng trên hành trình trở thành sản phẩm OCOP 5 sao,https://congthuong.vn/lam-dong-macca-sao-vang-tren-hanh-trinh-tro-thanh-san-pham-ocop-5-sao-312048.html
+63,6,18-03-2024,Đẩy mạnh Cuộc vận động “Người Việt Nam ưu tiên dùng hàng Việt Nam” trong các cấp công đoàn,https://congthuong.vn/day-manh-cuoc-van-dong-nguoi-viet-nam-uu-tien-dung-hang-viet-nam-trong-cac-cap-cong-doan-309355.html
+64,6,18-03-2024,"Ninh Thuận lan tỏa, quảng bá các sản phẩm OCOP tại Hội Báo toàn quốc 2024",https://congthuong.vn/ninh-thuan-lan-toa-quang-ba-cac-san-pham-ocop-tai-hoi-bao-toan-quoc-2024-309225.html
+65,1,15-03-2024,TP. Hồ Chí Minh: Hàng trăm sản phẩm OCOP hiện diện tại Hội Báo toàn quốc 2024,https://congthuong.vn/tp-ho-chi-minh-hang-tram-san-pham-ocop-hien-dien-tai-hoi-bao-toan-quoc-2024-308854.html
+66,2,08-03-2024,Xây dựng chuỗi cung ứng bền vững cho hàng Việt,https://congthuong.vn/xay-dung-chuoi-cung-ung-ben-vung-cho-hang-viet-307531.html
+67,6,08-03-2024,Nước tương Việt lên kệ siêu thị tại Hoa Kỳ,https://congthuong.vn/nuoc-tuong-viet-len-ke-sieu-thi-tai-hoa-ky-307532.html
+68,1,06-03-2024,Đưa sản phẩm Quảng Trị vào hệ thống phân phối Saigon Co.op,https://congthuong.vn/dua-san-pham-quang-tri-vao-he-thong-phan-phoi-saigon-coop-307166.html
+69,1,25-07-2024,"Thanh tra New Hope Hà Nội, KINGFOOD; giám sát C.P",https://kinhte.congthuong.vn/thanh-tra-new-hope-ha-no-i-kingfood-giam-sat-cp-334632.html
+70,2,24-07-2024,Chủ tịch KBC Đặng Thành Tâm: Doanh nghiệp nước ngoài coi Việt Nam như 'thiên đường đầu tư',https://kinhte.congthuong.vn/chu-tich-kbc-dang-thanh-tam-doanh-nghiep-nuoc-ngoai-coi-viet-nam-nhu-thien-duong-dau-tu-334498.html
+71,6,24-07-2024,"Liên tiếp xảy ra các vụ chiếu đèn laser, flycam uy hiếp an toàn bay",https://kinhte.congthuong.vn/lien-tiep-xay-ra-cac-vu-chieu-den-laser-flycam-uy-hiep-an-toan-bay-334387.html
+72,6,23-07-2024,Rút đề xuất giảm 50% phí trước bạ với ô tô tác động gì đến thị trường?,https://kinhte.congthuong.vn/rut-de-xuat-giam-50-phi-truoc-ba-voi-o-to-tac-dong-gi-den-thi-truong-334120.html
+73,6,24-07-2024,Chứng khoán hôm nay 24/7/2024: Thị trường có thể xuất hiện nhịp hồi để kiểm định lại mức 1.240 điểm,https://kinhte.congthuong.vn/chung-khoan-hom-nay-2472024-thi-truong-co-the-xuat-hien-nhip-hoi-de-kiem-dinh-lai-muc-1240-diem-334359.html
+74,6,24-07-2024,"Trung Quốc bao mua, xuất khẩu sắn thu về gần 684 triệu USD",https://kinhte.congthuong.vn/trung-quoc-bao-mua-xuat-khau-san-thu-ve-gan-684-trieu-usd-334401.html
+75,6,23-07-2024,Xuất khẩu thủy sản chủ lực của Việt Nam tăng trưởng cao trong 6 tháng đầu năm,https://kinhte.congthuong.vn/xuat-khau-thuy-san-chu-luc-cua-viet-nam-tang-truong-cao-trong-6-thang-dau-nam-334197.html
+76,5,23-07-2024,3 lời khuyên từ chuyên gia về kênh đầu tư tiềm năng thay thế vàng,https://kinhte.congthuong.vn/3-loi-khuyen-tu-chuyen-gia-ve-kenh-dau-tu-tiem-nang-thay-the-vang-334202.html
+77,6,24-07-2024,Hà Nội phân luồng giao thông phục vụ Quốc tang Tổng Bí thư Nguyễn Phú Trọng,https://kinhte.congthuong.vn/ha-noi-phan-luong-giao-thong-phuc-vu-quoc-tang-tong-bi-thu-nguyen-phu-trong-334478.html
+78,6,24-07-2024,"Đậu nành ""đại kỵ"" với nhóm người nào?",https://kinhte.congthuong.vn/dau-nanh-dai-ky-voi-nhom-nguoi-nao-334389.html
+79,6,23-07-2024,Bắc Ninh: Công trình “khủng” xây không phép trên đồi Pháo Thủ giờ ra sao?,https://kinhte.congthuong.vn/bac-ninh-cong-trinh-khung-xay-khong-phep-tren-doi-phao-thu-gio-ra-sao-334234.html
+80,6,19-07-2024,Những chung cư ''điểm nóng'' an ninh trật tự tại Hà Nội,https://kinhte.congthuong.vn/nhung-chung-cu-diem-nong-an-ninh-trat-tu-tai-ha-noi-333512.html
+81,1,18-07-2024,Thông tin thêm về số ca mắc bạch hầu và các khuyến cáo,https://kinhte.congthuong.vn/thong-tin-them-ve-so-ca-mac-bach-hau-va-cac-khuyen-cao-333241.html
+82,6,13-07-2024,"Xe khách bị đất vùi lấp tại Hà Giang: 11 người thương vong, nhiều người mất tích",https://kinhte.congthuong.vn/xe-khach-bi-dat-vui-lap-tai-ha-giang-11-nguoi-thuong-vong-nhieu-nguoi-mat-tich-331887.html
+83,6,13-07-2024,Cách tích hợp giấy tờ xe vào ứng dụng VNeID bằng điện thoại nhanh nhất,https://kinhte.congthuong.vn/cach-tich-hop-giay-to-xe-vao-ung-dung-vneid-bang-dien-thoai-nhanh-nhat-331970.html
+84,2,12-07-2024,"Kiểm soát 'chặt' lạm phát, tránh các mặt hàng thiết yếu 'leo thang' theo lương",https://kinhte.congthuong.vn/kiem-soat-chat-lam-phat-tranh-cac-mat-hang-thiet-yeu-leo-thang-theo-luong-331654.html
+85,6,11-07-2024,"Tháo gỡ vướng mắc trong quản lý, hạch toán tài sản công",https://kinhte.congthuong.vn/thao-go-vuong-mac-trong-quan-ly-hach-toan-tai-san-cong-331549.html
+86,6,12-07-2024,Lãi suất vay mua nhà giảm sâu: Cơ hội cho người dân sở hữu nhà ở?,https://kinhte.congthuong.vn/lai-suat-vay-mua-nha-giam-sau-co-hoi-cho-nguoi-dan-so-huu-nha-o-331639.html
+87,6,19-07-2024,"Xuất hiện nhiều diễn biến mới, giá hồ tiêu sắp tới ra sao?",https://kinhte.congthuong.vn/xuat-hien-nhieu-dien-bien-moi-gia-ho-tieu-sap-toi-ra-sao-333297.html
+88,2,23-07-2024,Đề xuất thành lập sàn giao dịch xăng dầu: Góc nhìn chuyên gia,https://kinhte.congthuong.vn/de-xuat-thanh-lap-san-giao-dich-xang-dau-goc-nhin-chuyen-gia-334269.html
+89,6,20-07-2024,Chứng khoán tuần qua: Thị trường diễn biến với sự giằng co trong xu hướng giảm,https://kinhte.congthuong.vn/chung-khoan-tuan-qua-thi-truong-dien-bien-voi-su-giang-co-trong-xu-huong-giam-333625.html
+90,6,21-07-2024,Hàng không Việt tìm phương án ứng phó thiếu hụt máy bay,https://kinhte.congthuong.vn/hang-khong-viet-tim-phuong-an-ung-pho-thieu-hut-may-bay-333757.html
+91,6,20-07-2024,"Bộ Tài chính kiến nghị không giảm 50% phí trước bạ, người mua ô tô 'vỡ mộng'",https://kinhte.congthuong.vn/bo-tai-chinh-kien-nghi-khong-giam-50-phi-truoc-ba-nguoi-mua-o-to-vo-mong-333680.html
+92,6,16-07-2024,Những thách thức pháp lý dai dẳng về môi trường đầu tư: Góc nhìn doanh nghiệp châu Âu,https://kinhte.congthuong.vn/nhung-thach-thuc-phap-ly-dai-dang-ve-moi-truong-dau-tu-goc-nhin-doanh-nghiep-chau-au-332521.html
+93,6,14-07-2024,"Hà Giang: Tiếp tục sạt lở đất, kho chứa vật liệu xây dựng bị đè bẹp",https://kinhte.congthuong.vn/ha-giang-tiep-tuc-sat-lo-dat-kho-chua-vat-lieu-xay-dung-bi-de-bep-332116.html
+94,1,07-02-2024,Khẩn trương phân bổ vốn phát triển kinh tế - xã hội vùng đồng bào dân tộc năm 2024,https://kinhte.congthuong.vn/khan-truong-phan-bo-von-phat-trien-kinh-te-xa-hoi-vung-dong-bao-dan-toc-nam-2024-301915.html
+95,1,24-12-2023,"Phú Thọ: Triển khai các dự án phát triển sản xuất, khởi nghiệp vùng đồng bào dân tộc",https://kinhte.congthuong.vn/phu-tho-trien-khai-cac-du-an-phat-trien-san-xuat-khoi-nghiep-vung-dong-bao-dan-toc-295216.html
+96,6,24-12-2023,Thừa Thiên Huế: Hiệu quả từ chương trình phát triển kinh tế - xã hội miền núi,https://kinhte.congthuong.vn/thua-thien-hue-hieu-qua-tu-chuong-trinh-phat-trien-kinh-te-xa-hoi-mien-nui-295516.html
+97,1,22-07-2024,“Ông lớn” PVMachino bị phạt vì vi phạm phòng cháy chữa cháy,https://kinhte.congthuong.vn/ong-lon-pvmachino-bi-phat-vi-vi-pham-phong-chay-chua-chay-333894.html
+98,6,19-07-2024,Bắt tàu vận chuyển 2.100 tấn than cám không hóa đơn trên sông Hồng,https://kinhte.congthuong.vn/bat-tau-van-chuyen-2100-tan-than-cam-khong-hoa-don-tren-song-hong-333509.html
+99,2,17-07-2024,Doanh nghiệp Đức tiếp tục mở rộng đầu tư và cam kết phát triển bền vững tại Việt Nam,https://kinhte.congthuong.vn/doanh-nghiep-duc-tiep-tuc-mo-rong-dau-tu-va-cam-ket-phat-trien-ben-vung-tai-viet-nam-332979.html
+100,2,08-06-2024,Tăng khả năng cạnh tranh cho hàng nông sản: Chuyển mạnh xuất khẩu từ thô sang tinh,https://kinhte.congthuong.vn/tang-kha-nang-canh-tranh-cho-hang-nong-san-chuyen-manh-xuat-khau-tu-tho-sang-tinh-325027.html
+101,6,29-05-2024,Xuất nhập khẩu với Mỹ và EU trong bối cảnh mới: Doanh nghiệp Việt lưu ý gì?,https://kinhte.congthuong.vn/xuat-nhap-khau-voi-my-va-eu-trong-boi-canh-moi-doanh-nghiep-viet-luu-y-gi-322915.html
+102,6,22-07-2024,Thu ngân sách nhà nước phải tương xứng với tăng trưởng kinh tế,https://kinhte.congthuong.vn/thu-ngan-sach-nha-nuoc-phai-tuong-xung-voi-tang-truong-kinh-te-333866.html
+103,2,22-07-2024,Cần sớm có các chính sách khả thi để phát triển tài chính xanh,https://kinhte.congthuong.vn/can-som-co-cac-chinh-sach-kha-thi-de-phat-trien-tai-chinh-xanh-334028.html
+104,6,09-12-2023,Để không gian nông nghiệp Thủ đô phát triển,https://kinhte.congthuong.vn/de-khong-gian-nong-nghiep-thu-do-phat-trien-290836.html
+105,1,17-10-2023,"Chiến sự Israel-Hamas ngày 17/10: Mỹ, Israel và Ai Cập đạt thỏa thuận 5 giờ ngừng bắn ở Dải Gaza",https://kinhte.congthuong.vn/chien-su-israel-hamas-ngay-1710-my-israel-va-ai-cap-dat-thoa-thuan-5-gio-ngung-ban-o-dai-gaza-279235.html
+106,6,17-10-2023,"Thời tiết chiều nay 17/10/2023: Miền Bắc hửng nắng, miền Trung mưa to đến rất to",https://kinhte.congthuong.vn/thoi-tiet-chieu-nay-17102023-mien-bac-hung-nang-mien-trung-mua-to-den-rat-to-279194.html
+107,6,16-10-2023,"Thời tiết chiều nay 16/10/2023: Miền Trung tiếp tục mưa, miền Bắc nắng nhẹ",https://kinhte.congthuong.vn/thoi-tiet-chieu-nay-16102023-mien-trung-tiep-tuc-mua-mien-bac-nang-nhe-278964.html
+108,3,16-10-2023,"Những lợi ích ""thần kì"" từ quả lựu bạn nên biết",https://kinhte.congthuong.vn/nhung-loi-ich-than-ki-tu-qua-luu-ban-nen-biet-278861.html
+109,4,04-03-2024,Bài 2: Đảm bảo an ninh biên giới,https://kinhte.congthuong.vn/bai-2-dam-bao-an-ninh-bien-gioi-giu-vung-chu-quyen-quoc-gia-306211.html
+110,6,27-08-2023,Lễ vào nhà mới - Nét văn hóa của dân tộc Khơ Mú,https://kinhte.congthuong.vn/le-vao-nha-moi-net-van-hoa-cua-dan-toc-kho-mu-269019.html
+111,6,18-08-2023,Hà Nội rực sắc cờ hoa chào mừng Cách mạng tháng Tám và Quốc khánh 2/9,https://kinhte.congthuong.vn/ha-noi-ruc-sac-co-hoa-chao-mung-cach-mang-thang-tam-va-quoc-khanh-29-267459.html
+112,1,25-07-2024,HSBC raises GDP growth forecast for Vietnam to 6.5%,https://e.vnexpress.net/news/business/economy/hsbc-raises-gdp-growth-forecast-for-vietnam-to-6-5-4773752.html
+113,1,25-07-2024,HSBC raises GDP growth forecast for Vietnam to 6.5%,https://e.vnexpress.net/news/business/economy/hsbc-raises-gdp-growth-forecast-for-vietnam-to-6-5-4773752.html#box_comment
+114,1,22-07-2024,Promotion de la langue vietnamienne en France,https://fr.nhandan.vn/promotion-de-la-langue-vietnamienne-en-france-post91072.html
+115,1,21-07-2024,"Le décès du SG Nguyên Phu Trong est une grande perte, selon un ancien dirigeant lao",https://fr.nhandan.vn/le-deces-du-sg-nguyen-phu-trong-est-une-grande-perte-selon-un-ancien-dirigeant-lao-post91059.html
+116,4,22-07-2024,Vietnam’s coastal provinces brace for Typhoon Prapiroon,https://en.nhandan.vn/vietnams-coastal-provinces-brace-for-typhoon-prapiroon-post137498.html
+117,1,22-07-2024,World leaders mourn passing of Vietnamese Party General Secretary,https://en.nhandan.vn/world-leaders-mourn-passing-of-vietnamese-party-general-secretary-post137524.html
+118,5,23-07-2024,General Secretary Nguyen Phu Trong - excellent leader with imprints in Vietnam's diplomacy,https://en.nhandan.vn/general-secretary-nguyen-phu-trong-excellent-leader-with-imprints-in-vietnams-diplomacy-post137549.html
+119,1,21-07-2024,"Fallecimiento de líder partidista vietnamita es una gran pérdida, según exdirigente laosiano",https://es.nhandan.vn/fallecimiento-de-lider-partidista-vietnamita-es-una-gran-perdida-segun-exdirigente-laosiano-post64756.html
+120,1,21-07-2024,Destacan papel del líder partidista para el desarrollo de nexos Vietnam - China,https://es.nhandan.vn/destacan-papel-del-lider-partidista-para-el-desarrollo-de-nexos-vietnam-china-post64747.html
+121,1,21-07-2024,Orden de la Estrella Dorada reconoce contribuciones especiales del líder del Partido,https://es.nhandan.vn/orden-de-la-estrella-dorada-reconoce-contribuciones-especiales-del-lider-del-partido-post64732.html
+122,4,26-07-2024,"Hãy quên khẩn trương trận đấu ‘kì quái’, Olympic Argentina phải tìm cách vượt thác",https://thanhnien.vn/hay-quen-khan-truong-tran-dau-ki-quai-olympic-argentina-phai-tim-cach-vuot-thac-185240725230930692.htm
+123,6,03-07-2024,"OPPO A3 trình làng, đi kèm mức giá 5,6 triệu đồng",https://www.congluan.vn/oppo-a3-trinh-lang-di-kem-muc-gia-56-trieu-dong-post302210.html
+124,6,03-07-2024,Apple ra mắt bản public beta thứ hai của iOS 17.6 và iPadOS 17.6,https://www.congluan.vn/apple-ra-mat-ban-public-beta-thu-hai-cua-ios-176-va-ipados-176-post302152.html
+125,6,02-07-2024,Hướng dẫn xác thực sinh trắc học trong ứng dụng ngân hàng,https://www.congluan.vn/huong-dan-xac-thuc-sinh-trac-hoc-trong-ung-dung-ngan-hang-post302045.html
+126,6,02-07-2024,Apple phát hành iOS 17.6 và iPadOS 17.6 beta 2,https://www.congluan.vn/apple-phat-hanh-ios-176-va-ipados-176-beta-2-post301998.html
+127,6,01-07-2024,"OPPO A3 ấn định ngày ra mắt, tại thị trường Trung Quốc",https://www.congluan.vn/oppo-a3-an-dinh-ngay-ra-mat-tai-thi-truong-trung-quoc-post301933.html
+128,6,01-07-2024,Xiaomi ra mắt bản cập nhật HyperOS 1.5,https://www.congluan.vn/xiaomi-ra-mat-ban-cap-nhat-hyperos-15-post301932.html
+129,5,30-06-2024,"Vivo Pad 3 ra mắt, giá từ 8,75 triệu đồng",https://www.congluan.vn/vivo-pad-3-ra-mat-gia-tu-875-trieu-dong-post301677.html
+130,5,29-06-2024,OPPO Reno12 F trình làng với chip Dimensity 6300,https://www.congluan.vn/oppo-reno12-f-trinh-lang-voi-chip-dimensity-6300-post301674.html
+131,4,27-06-2024,"Realme 12 4G trình làng với giá từ 5,49 triệu đồng",https://www.congluan.vn/realme-12-4g-trinh-lang-voi-gia-tu-549-trieu-dong-post301174.html
+132,6,27-06-2024,Samsung trình làng cảm biến camera ISOCELL 200MP và 50MP mới,https://www.congluan.vn/samsung-trinh-lang-cam-bien-camera-isocell-200mp-va-50mp-moi-post301115.html
+133,6,26-06-2024,OnePlus Nord CE4 Lite 5G trình làng,https://www.congluan.vn/oneplus-nord-ce4-lite-5g-trinh-lang-post300883.html
+134,6,26-06-2024,Những nâng cấp mới nhất về màn hình chính trên iOS 18,https://www.congluan.vn/nhung-nang-cap-moi-nhat-ve-man-hinh-chinh-tren-ios-18-post300881.html
+135,1,25-06-2024,Apple ngừng phát triển kính Vision Pro 2,https://www.congluan.vn/apple-ngung-phat-trien-kinh-vision-pro-2-post300664.html
+136,6,24-06-2024,Google bắt đầu chặn người dùng sử dụng VPN để mua YouTube Premium giá rẻ,https://www.congluan.vn/google-bat-dau-chan-nguoi-dung-su-dung-vpn-de-mua-youtube-premium-gia-re-post300569.html
+137,4,24-06-2024,"HONOR Play 60 Plus trình làng, giá từ 5,25 triệu đồng",https://www.congluan.vn/honor-play-60-plus-trinh-lang-gia-tu-525-trieu-dong-post300566.html
+138,6,23-06-2024,Google loại bỏ tính năng trò chuyện với doanh nghiệp trên Google Maps,https://www.congluan.vn/google-loai-bo-tinh-nang-tro-chuyen-voi-doanh-nghiep-tren-google-maps-post300440.html
+139,3,22-06-2024,Honda ra mắt mẫu xe CB300R với giá hơn 131 triệu đồng,https://www.congluan.vn/honda-ra-mat-mau-xe-cb300r-voi-gia-hon-131-trieu-dong-post300277.html
+140,5,22-06-2024,Lenovo trình làng máy tính bảng Tab K11 LTE,https://www.congluan.vn/lenovo-trinh-lang-may-tinh-bang-tab-k11-lte-post300273.html
+141,5,22-06-2024,"OPPO Reno11 A ra mắt với giá 7,82 triệu đồng",https://www.congluan.vn/oppo-reno11-a-ra-mat-voi-gia-782-trieu-dong-post300266.html
+142,6,21-06-2024,TV360 đem 'đại tiệc' xem chung EURO 2024 đến 10 tỉnh thành,https://www.congluan.vn/tv360-dem-dai-tiec-xem-chung-euro-2024-den-10-tinh-thanh-post300286.html
+143,4,20-06-2024,"Vivo ra mắt điện thoại Y58 5G với giá 5,95 triệu đồng",https://www.congluan.vn/vivo-ra-mat-dien-thoai-y58-5g-voi-gia-595-trieu-dong-post300095.html
+144,6,18-06-2024,Apple chính thức khai tử Apple ID,https://www.congluan.vn/apple-chinh-thuc-khai-tu-apple-id-post299659.html
+145,6,18-06-2024,"Vivo V40 ra mắt với giá từ 16,34 triệu đồng",https://www.congluan.vn/vivo-v40-ra-mat-voi-gia-tu-1634-trieu-dong-post299656.html
+146,4,16-06-2024,"Vivo Y28 4G ra mắt với pin 6000 mAh, giá 5,05 triệu đồng",https://www.congluan.vn/vivo-y28-4g-ra-mat-voi-pin-6000-mah-gia-505-trieu-dong-post299502.html
+147,6,15-06-2024,Samsung ra mắt Galaxy Watch FE với giá từ 5 triệu đồng,https://www.congluan.vn/samsung-ra-mat-galaxy-watch-fe-voi-gia-tu-5-trieu-dong-post299299.html
+148,6,13-06-2024,OPPO Reno12 Series ấn định ngày ra mắt toàn cầu,https://www.congluan.vn/oppo-reno12-series-an-dinh-ngay-ra-mat-toan-cau-post299157.html
+149,3,13-06-2024,Xiaomi 14 Civi ra mắt với giá từ 13 triệu đồng,https://www.congluan.vn/xiaomi-14-civi-ra-mat-voi-gia-tu-13-trieu-dong-post299153.html
+150,6,13-06-2024,IPhone 15 có thể hiển thị thời gian khi hết pin trong iOS 18,https://www.congluan.vn/iphone-15-co-the-hien-thi-thoi-gian-khi-het-pin-trong-ios-18-post299115.html
+151,6,12-06-2024,iOS 18 ra mắt tính năng ghi âm và chép lại cuộc gọi trên điện thoại iPhone,https://www.congluan.vn/ios-18-ra-mat-tinh-nang-ghi-am-va-chep-lai-cuoc-goi-tren-dien-thoai-iphone-post299041.html
+152,6,11-06-2024,iOS 18 bạn có thể AirDrop tiền cho nhau,https://www.congluan.vn/ios-18-ban-co-the-airdrop-tien-cho-nhau-post298899.html
+153,6,10-06-2024,Xiaomi ra mắt tai nghe Redmi Buds 6S,https://www.congluan.vn/xiaomi-ra-mat-tai-nghe-redmi-buds-6s-post298749.html
+154,6,10-06-2024,Viettel ưu đãi Data Roaming không giới hạn tại Đức nhân dịp UEFA EURO 2024,https://www.congluan.vn/viettel-uu-dai-data-roaming-khong-gioi-han-tai-duc-nhan-dip-uefa-euro-2024-post298744.html
+155,6,08-06-2024,Apple siết chặt quy định bảo hành: Người dùng cần lưu ý,https://www.congluan.vn/apple-siet-chat-quy-dinh-bao-hanh-nguoi-dung-can-luu-y-post298527.html
+156,4,07-06-2024,Acer ra mắt máy tính để bàn AIO tích hợp trợ lý AI,https://www.congluan.vn/acer-ra-mat-may-tinh-de-ban-aio-tich-hop-tro-ly-ai-post298458.html
+157,4,06-06-2024,"Realme trình làng Narzo N63 với giá từ 2,44 triệu đồng",https://www.congluan.vn/realme-trinh-lang-narzo-n63-voi-gia-tu-244-trieu-dong-post298304.html
+158,6,05-06-2024,ASUS ra mắt dòng laptop ProArt tích hợp Copilot+ PC,https://www.congluan.vn/asus-ra-mat-dong-laptop-proart-tich-hop-copilot-pc-post298163.html
+159,6,04-06-2024,ChatGPT gặp sự cố toàn cầu,https://www.congluan.vn/chatgpt-gap-su-co-toan-cau-post298036.html
+160,6,03-06-2024,Ấn định ngày ra mắt OnePlus Nord 4,https://www.congluan.vn/an-dinh-ngay-ra-mat-oneplus-nord-4-post297921.html
+161,4,03-06-2024,"Redmi 13 4G ra mắt với giá từ 5,5 triệu đồng",https://www.congluan.vn/redmi-13-4g-ra-mat-voi-gia-tu-55-trieu-dong-post297919.html
+162,6,02-06-2024,Microsoft gặp khó khi Apple hợp tác với OpenAI,https://www.congluan.vn/microsoft-gap-kho-khi-apple-hop-tac-voi-openai-post297797.html
+163,6,30-05-2024,Google Photos sắp biến thành một mạng xã hội?,https://www.congluan.vn/google-photos-sap-bien-thanh-mot-mang-xa-hoi-post297473.html
+164,6,30-05-2024,Apple chính thức chặn người dùng hạ cấp,https://www.congluan.vn/apple-chinh-thuc-chan-nguoi-dung-ha-cap-post297401.html
+165,6,30-05-2024,"YouTube ""mạnh tay"" với người sử dụng trình chặn quảng cáo",https://www.congluan.vn/youtube-manh-tay-voi-nguoi-su-dung-trinh-chan-quang-cao-post297397.html
+166,6,28-05-2024,Ưu và nhược điểm khi sử dụng case PC kiểu 'bể cá',https://www.congluan.vn/uu-va-nhuoc-diem-khi-su-dung-case-pc-kieu-be-ca-post297178.html
+167,6,28-05-2024,10 tính năng AI dự kiến sẽ có trong iOS 18,https://www.congluan.vn/10-tinh-nang-ai-du-kien-se-co-trong-ios-18-post297046.html
+168,4,27-05-2024,Samsung ra mắt Galaxy M35 5G tại Brazil,https://www.congluan.vn/samsung-ra-mat-galaxy-m35-5g-tai-brazil-post297041.html
+169,4,26-05-2024,"Xiaomi ra mắt Redmi A3x, đi kèm mức giá 2,99 triệu đồng",https://www.congluan.vn/xiaomi-ra-mat-redmi-a3x-di-kem-muc-gia-299-trieu-dong-post296896.html
+170,6,26-05-2024,Apple thay đổi hoàn toàn nút bấm trên iPhone 16,https://www.congluan.vn/apple-thay-doi-hoan-toan-nut-bam-tren-iphone-16-post296893.html
+171,4,25-05-2024,OPPO ra mắt tai nghe Enco Air 4 Pro,https://www.congluan.vn/oppo-ra-mat-tai-nghe-enco-air-4-pro-post296754.html
+172,6,24-05-2024,"Xiaomi POCO Pad ra mắt với giá 8,38 triệu đồng",https://www.congluan.vn/xiaomi-poco-pad-ra-mat-voi-gia-838-trieu-dong-post296659.html
+173,6,23-05-2024,Sử dụng điện thoại ngoài trời mưa có làm tăng nguy cơ sét đánh?,https://www.congluan.vn/su-dung-dien-thoai-ngoai-troi-mua-co-lam-tang-nguy-co-set-danh-post296622.html
+174,6,21-05-2024,Apple phát hành phiên bản iOS 17.5.1: Sửa lỗi ảnh đã xoá bỗng dưng xuất hiện trở lại,https://www.congluan.vn/apple-phat-hanh-phien-ban-ios-1751-sua-loi-anh-da-xoa-bong-dung-xuat-hien-tro-lai-post296339.html
+175,6,20-05-2024,Nhiều ứng dụng 'tín dụng đen' bị chặn khỏi App Store,https://www.congluan.vn/nhieu-ung-dung-tin-dung-den-bi-chan-khoi-app-store-post296193.html
+176,6,19-05-2024,Meta khai tử Workplace để tập trung vào AI và Metaverse,https://www.congluan.vn/meta-khai-tu-workplace-de-tap-trung-vao-ai-va-metaverse-post296026.html
+177,6,19-05-2024,Samsung lộ diện laptop Snapdragon X Elite đầu tiên,https://www.congluan.vn/samsung-lo-dien-laptop-snapdragon-x-elite-dau-tien-post296024.html
+178,4,18-05-2024,Vivo trình làng smartphone V30 5G,https://www.congluan.vn/vivo-trinh-lang-smartphone-v30-5g-post295992.html
+179,4,18-05-2024,Ấn định ngày ra mắt Xiaomi 14 Ultra tại Việt Nam ngày 23/5,https://www.congluan.vn/an-dinh-ngay-ra-mat-xiaomi-14-ultra-tai-viet-nam-ngay-23-5-post295943.html
+180,4,17-05-2024,"Xiaomi ra mắt Redmi Note 13R, giá từ 4,9 triệu đồng",https://www.congluan.vn/xiaomi-ra-mat-redmi-note-13r-gia-tu-49-trieu-dong-post295864.html
+181,6,17-05-2024,"Lenovo ra mắt smartphone mặt lưng gỗ, chip Snapdragon 8s Gen 3, sạc 125W",https://www.congluan.vn/lenovo-ra-mat-smartphone-mat-lung-go-chip-snapdragon-8s-gen-3-sac-125w-post295862.html
+182,6,17-05-2024,EON Reality Việt Nam ký kết hợp tác với PTIT xây dựng Trung tâm Trí tuệ nhân tạo Không gian đầu tiên tại Việt Nam,https://www.congluan.vn/eon-reality-viet-nam-ky-ket-hop-tac-voi-ptit-xay-dung-trung-tam-tri-tue-nhan-tao-khong-gian-dau-tien-tai-viet-nam-post295818.html
+183,6,17-05-2024,"Cận cảnh phiên bản ""anh em"" của Nokia XR21, giá lên tới 16,5 triệu đồng",https://www.congluan.vn/can-canh-phien-ban-anh-em-cua-nokia-xr21-gia-len-toi-165-trieu-dong-post295811.html
+184,4,16-05-2024,Xiaomi ra mắt tai nghe true wireless,https://www.congluan.vn/xiaomi-ra-mat-tai-nghe-true-wireless-post295736.html
+185,6,16-05-2024,iOS 17.5 gặp lỗi: Ảnh đã xóa từ nhiều năm trước bất ngờ xuất hiện trở lại trên iPhone,https://www.congluan.vn/ios-175-gap-loi-anh-da-xoa-tu-nhieu-nam-truoc-bat-ngo-xuat-hien-tro-lai-tren-iphone-post295732.html
+186,4,16-05-2024,"Sony Xperia 10 VI ra mắt với chip Snapdragon 6 Gen 1, giá 11 triệu đồng",https://www.congluan.vn/sony-xperia-10-vi-ra-mat-voi-chip-snapdragon-6-gen-1-gia-11-trieu-dong-post295697.html
+187,6,15-05-2024,Apple chính thức phát hành iOS 17.5 và iPadOS 17.5,https://www.congluan.vn/apple-chinh-thuc-phat-hanh-ios-175-va-ipados-175-post295493.html
+188,3,15-05-2024,"Vivo Watch 3 ECG ra mắt với giá 5,98 triệu đồng",https://www.congluan.vn/vivo-watch-3-ecg-ra-mat-voi-gia-598-trieu-dong-post295494.html
+189,6,14-05-2024,"OpenAI ra mắt GPT-4o, phiên bản nâng cấp của GPT-4",https://www.congluan.vn/openai-ra-mat-gpt-4o-phien-ban-nang-cap-cua-gpt-4-post295428.html
+190,4,14-05-2024,"Vivo X100 Ultra ra mắt với camera tiềm vọng 200MP, giá từ 22,87 triệu đồng",https://www.congluan.vn/vivo-x100-ultra-ra-mat-voi-camera-tiem-vong-200mp-gia-tu-2287-trieu-dong-post295364.html
+191,5,14-05-2024,Ngắm nhìn Huawei Watch Fit 3 ra mắt,https://www.congluan.vn/ngam-nhin-huawei-watch-fit-3-ra-mat-post295368.html
+192,6,13-05-2024,Apple và OpenAI ký thỏa thuận tích hợp ChatGPT vào iOS 18,https://www.congluan.vn/apple-va-openai-ky-thoa-thuan-tich-hop-chatgpt-vao-ios-18-post295152.html
+193,6,13-05-2024,"Google Pixel 8a chính thức ra mắt, giá từ 12,69 triệu đồng",https://www.congluan.vn/google-pixel-8a-chinh-thuc-ra-mat-gia-tu-1269-trieu-dong-post295155.html
+194,6,11-05-2024,Realme GT Neo6 trình làng với chip Snapdragon 8s Gen 3,https://www.congluan.vn/realme-gt-neo6-trinh-lang-voi-chip-snapdragon-8s-gen-3-post295068.html
+195,4,11-05-2024,Motorola ra mắt Moto G Stylus 5G: Smartphone tích hợp bút Stylus,https://www.congluan.vn/motorola-ra-mat-moto-g-stylus-5g-smartphone-tich-hop-but-stylus-post295041.html
+196,4,10-05-2024,Vivo Y18s trình làng thị trường Việt Nam,https://www.congluan.vn/vivo-y18s-trinh-lang-thi-truong-viet-nam-post294950.html
+197,4,10-05-2024,ASUS ra mắt Vivobook S OLED tại Việt Nam,https://www.congluan.vn/asus-ra-mat-vivobook-s-oled-tai-viet-nam-post294888.html
+198,1,10-05-2024,LG 21HQ613D ra mắt màn hình siêu dị với tỉ lệ 4:5,https://www.congluan.vn/lg-21hq613d-ra-mat-man-hinh-sieu-di-voi-ti-le-45-post294882.html
+199,6,10-05-2024,Galaxy S24 Ultra và S24+: So sánh hai flagship Android hàng đầu,https://www.congluan.vn/galaxy-s24-ultra-va-s24-so-sanh-hai-flagship-android-hang-dau-post294864.html
+200,1,09-05-2024,Apple ra mắt Chip M4 dành riêng cho AI,https://www.congluan.vn/apple-ra-mat-chip-m4-danh-rieng-cho-ai-post294796.html
+201,1,09-05-2024,"Xiaomi ra mắt router Wi-Fi 7, giá chưa tới 1 triệu đồng",https://www.congluan.vn/xiaomi-ra-mat-router-wi-fi-7-gia-chua-toi-1-trieu-dong-post294791.html
+202,6,09-05-2024,Google Pixel 8A ra mắt: Smartphone tầm trung đáng mong chờ,https://www.congluan.vn/google-pixel-8a-ra-mat-smartphone-tam-trung-dang-mong-cho-post294702.html
+203,6,07-05-2024,"Samsung ra mắt củ sạc 50W, 2 cổng USB Type-C",https://www.congluan.vn/samsung-ra-mat-cu-sac-50w-2-cong-usb-type-c-post294464.html
+204,6,06-05-2024,Xperia 1 VI sắp ra mắt có gì thú vị?,https://www.congluan.vn/xperia-1-vi-sap-ra-mat-co-gi-thu-vi-post294184.html
+205,6,04-05-2024,Samsung trình làng Galaxy M15 5G tại thị trường Việt Nam,https://www.congluan.vn/samsung-trinh-lang-galaxy-m15-5g-tai-thi-truong-viet-nam-post294143.html
+206,6,03-05-2024,Apple tiếp tục phát hành bản thử nghiệm iOS 17.5 và iPadOS 17.5 beta 4: Hướng tới sự ổn định và hiệu suất,https://www.congluan.vn/apple-tiep-tuc-phat-hanh-ban-thu-nghiem-ios-175-va-ipados-175-beta-4-huong-toi-su-on-dinh-va-hieu-suat-post293957.html
+207,5,03-05-2024,"Vivo Y38 5G trình làng với chip Snapdragon 4 Gen 2, màn hình 120Hz",https://www.congluan.vn/vivo-y38-5g-trinh-lang-voi-chip-snapdragon-4-gen-2-man-hinh-120hz-post293947.html
+208,6,02-05-2024,Apple xác nhận lỗi trên iPhone và hứa sớm khắc phục,https://www.congluan.vn/apple-xac-nhan-loi-tren-iphone-va-hua-som-khac-phuc-post293928.html
+209,2,02-05-2024,"LG ra mắt màn hình gaming OLED 44,5 inch",https://www.congluan.vn/lg-ra-mat-man-hinh-gaming-oled-445-inch-post293896.html
+210,6,02-05-2024,Beats của Apple ra mắt tai nghe true wireless mới,https://www.congluan.vn/beats-cua-apple-ra-mat-tai-nghe-true-wireless-moi-post293877.html
+211,6,01-05-2024,Galaxy S23 sắp được bán với giá rẻ không tưởng?,https://www.congluan.vn/galaxy-s23-sap-duoc-ban-voi-gia-re-khong-tuong-post293813.html
+212,6,01-05-2024,OPPO trình làng củ sạc GaN 2 cổng 80W SUPERVOOC,https://www.congluan.vn/oppo-trinh-lang-cu-sac-gan-2-cong-80w-supervooc-post293708.html
+213,1,30-04-2024,Bí quyết kiểm tra có bao nhiêu SIM đã đăng ký dưới tên mình,https://www.congluan.vn/bi-quyet-kiem-tra-co-bao-nhieu-sim-da-dang-ky-duoi-ten-minh-post293705.html
+214,6,29-04-2024,"Vivo Y18e trình làng với pin 5000 mAh, chip Helio G85",https://www.congluan.vn/vivo-y18e-trinh-lang-voi-pin-5000-mah-chip-helio-g85-post293648.html
+215,6,29-04-2024,"iOS 18 sẽ cải tiến cho loạt ứng dụng Notes, Mail, Photos và Fitness",https://www.congluan.vn/ios-18-se-cai-tien-cho-loat-ung-dung-notes-mail-photos-va-fitness-post293655.html
+216,6,29-04-2024,"HONOR Pad 9 Pro trình làng với giá 7,69 triệu đồng",https://www.congluan.vn/honor-pad-9-pro-trinh-lang-voi-gia-769-trieu-dong-post293560.html
+217,6,26-04-2024,"OPPO K12 trình làng với giá từ 6,5 triệu đồng",https://www.congluan.vn/oppo-k12-trinh-lang-voi-gia-tu-65-trieu-dong-post293308.html
+218,6,25-04-2024,Phổ cập blockchain và AI cho 1 triệu lượt người đến năm 2030,https://www.congluan.vn/pho-cap-blockchain-va-ai-cho-1-trieu-luot-nguoi-den-nam-2030-post293048.html
+219,6,25-04-2024,Đánh giá bộ sạc nhanh 50W của Samsung sắp ra mắt,https://www.congluan.vn/danh-gia-bo-sac-nhanh-50w-cua-samsung-sap-ra-mat-post293124.html
+220,6,24-04-2024,Từng bước hoàn thiện hành lang pháp lý quản lý tài sản ảo theo tiêu chuẩn VASP,https://www.congluan.vn/tung-buoc-hoan-thien-hanh-lang-phap-ly-quan-ly-tai-san-ao-theo-tieu-chuan-vasp-post292986.html
+221,6,24-04-2024,Xem trước mẫu Galaxy Z Fold6 ra mắt trong thời gian tới,https://www.congluan.vn/xem-truoc-mau-galaxy-z-fold6-ra-mat-trong-thoi-gian-toi-post292955.html
+222,3,24-04-2024,Apple ấn định ngày ra mắt iPad thế hệ mới vào 7/5/2024,https://www.congluan.vn/apple-an-dinh-ngay-ra-mat-ipad-the-he-moi-vao-7-5-2024-post292935.html
+223,1,24-04-2024,Tạo ảnh bằng AI với bản nâng cấp Firefly Image 3 của Adobe Photoshop,https://www.congluan.vn/tao-anh-bang-ai-voi-ban-nang-cap-firefly-image-3-cua-adobe-photoshop-post292927.html
+224,6,23-04-2024,Google gửi thông báo đến người dùng Gmail: Cần tránh 6 cụm từ nếu không muốn mất sạch tiền trong tài khoản,https://www.congluan.vn/google-gui-thong-bao-den-nguoi-dung-gmail-can-tranh-6-cum-tu-neu-khong-muon-mat-sach-tien-trong-tai-khoan-post292906.html
+225,6,23-04-2024,"Realme 12 Lite trình làng với màn hình 90Hz, chip Snapdragon 685",https://www.congluan.vn/realme-12-lite-trinh-lang-voi-man-hinh-90hz-chip-snapdragon-685-post292815.html
+226,1,22-04-2024,Lenovo ra mắt ThinkBook X AI 2024,https://www.congluan.vn/lenovo-ra-mat-thinkbook-x-ai-2024-post292754.html
+227,6,22-04-2024,Samsung ra mắt chip nhớ di động DRAM có tốc độ nhanh nhất thế giới,https://www.congluan.vn/samsung-ra-mat-chip-nho-di-dong-dram-co-toc-do-nhanh-nhat-the-gioi-post292728.html
+228,6,22-04-2024,Chi tiết Tecno Camon 30 Premier 5G ra mắt toàn cầu,https://www.congluan.vn/chi-tiet-tecno-camon-30-premier-5g-ra-mat-toan-cau-post292590.html
+229,6,20-04-2024,ZTE Axon 60 Ultra ra mắt với chip SD2 và mạng 5.5G,https://www.congluan.vn/zte-axon-60-ultra-ra-mat-voi-chip-sd2-va-mang-55g-post292415.html
+230,6,18-04-2024,Lenovo trình làng laptop Xiaoxin Pro 16 2024,https://www.congluan.vn/lenovo-trinh-lang-laptop-xiaoxin-pro-16-2024-post292238.html
+231,6,18-04-2024,Vivo T3x ra mắt với chip Snapdragon 6 Gen 1,https://www.congluan.vn/vivo-t3x-ra-mat-voi-chip-snapdragon-6-gen-1-post292237.html
+232,6,18-04-2024,"Viettel có Data Center lớn nhất Việt Nam, sẵn sàng phát triển AI",https://www.congluan.vn/viettel-co-data-center-lon-nhat-viet-nam-san-sang-phat-trien-ai-post292176.html
+233,6,18-04-2024,Viettel tiên phong xây dựng hạ tầng số quốc gia bền vững với DC Xanh đầu tiên,https://www.congluan.vn/viettel-tien-phong-xay-dung-ha-tang-so-quoc-gia-ben-vung-voi-dc-xanh-dau-tien-post292182.html
+234,6,17-04-2024,HP ra mắt màn hình Omen D27qs với viền siêu mỏng,https://www.congluan.vn/hp-ra-mat-man-hinh-omen-d27qs-voi-vien-sieu-mong-post292092.html
+235,6,16-04-2024,Chi tiết chuột không dây Bluetooth Logitech M196,https://www.congluan.vn/chi-tiet-chuot-khong-day-bluetooth-logitech-m196-post292008.html
+236,6,16-04-2024,"OPPO A1i ra mắt với màn hình 90Hz, chip Dimensity 6020",https://www.congluan.vn/oppo-a1i-ra-mat-voi-man-hinh-90hz-chip-dimensity-6020-post292002.html
+237,4,16-04-2024,Realme ra mắt tai nghe không dây giá chỉ hơn 300.000 nghìn đồng,https://www.congluan.vn/realme-ra-mat-tai-nghe-khong-day-gia-chi-hon-300000-nghin-dong-post291773.html
+238,6,14-04-2024,Huawei ra mắt MateBook X Pro 2024,https://www.congluan.vn/huawei-ra-mat-matebook-x-pro-2024-post291681.html
+239,1,13-04-2024,"Trình làng OPPO A3 Pro với giá từ 6,9 triệu đồng",https://www.congluan.vn/trinh-lang-oppo-a3-pro-voi-gia-tu-69-trieu-dong-post291612.html
+240,6,13-04-2024,Ra mắt OPPO A1s tại thị trường Trung Quốc,https://www.congluan.vn/ra-mat-oppo-a1s-tai-thi-truong-trung-quoc-post291610.html
+241,5,12-04-2024,"Realme GT Neo6 SE ra mắt với giá từ 5,8 triệu đồng",https://www.congluan.vn/realme-gt-neo6-se-ra-mat-voi-gia-tu-58-trieu-dong-post291521.html
+242,6,12-04-2024,Apple phát hành cảnh báo khẩn đến người dùng iPhone trên toàn cầu,https://www.congluan.vn/apple-phat-hanh-canh-bao-khan-den-nguoi-dung-iphone-tren-toan-cau-post291459.html
+243,3,11-04-2024,Redmi Turbo 3 ra mắt thị trường Trung Quốc,https://www.congluan.vn/redmi-turbo-3-ra-mat-thi-truong-trung-quoc-post291359.html
+244,6,11-04-2024,Acer trình làng chiếc máy tính xách tay Predator Helio Neo 14,https://www.congluan.vn/acer-trinh-lang-chiec-may-tinh-xach-tay-predator-helio-neo-14-post291268.html
+245,1,10-04-2024,Ký kết hợp tác chuyển đổi số lĩnh vực truyền tin cảnh báo sự cố trong công tác phòng cháy chữa cháy,https://www.congluan.vn/ky-ket-hop-tac-chuyen-doi-so-linh-vuc-truyen-tin-canh-bao-su-co-trong-cong-tac-phong-chay-chua-chay-post291211.html
+246,1,10-04-2024,"Macbook Air M3 mở bán sớm tại Việt Nam, giá chỉ từ 24,9 triệu đồng",https://www.congluan.vn/macbook-air-m3-mo-ban-som-tai-viet-nam-gia-chi-tu-249-trieu-dong-post291068.html
+247,4,10-04-2024,"Facebook cập nhật tính năng, cho phép người dùng tại Việt Nam gửi ảnh chất lượng cao HD qua Messenger",https://www.congluan.vn/facebook-cap-nhat-tinh-nang-cho-phep-nguoi-dung-tai-viet-nam-gui-anh-chat-luong-cao-hd-qua-messenger-post291139.html
+248,6,10-04-2024,Xiaomi ra mắt router WiFi 7,https://www.congluan.vn/xiaomi-ra-mat-router-wifi-7-post291077.html
+249,6,10-04-2024,"Vivo trình làng V30 Lite, giá từ 6,7 triệu đồng",https://www.congluan.vn/vivo-trinh-lang-v30-lite-gia-tu-67-trieu-dong-post291066.html
+250,1,09-04-2024,Samsung ra mắt PC All-in-One Pro giống iMac,https://www.congluan.vn/samsung-ra-mat-pc-all-in-one-pro-giong-imac-post290996.html
+251,6,08-04-2024,Sai lầm của người dùng luôn mắc phải khi sạc điện thoại di động,https://www.congluan.vn/sai-lam-cua-nguoi-dung-luon-mac-phai-khi-sac-dien-thoai-di-dong-post290945.html
+252,6,08-04-2024,"Bảo vệ người dùng khỏi lừa đảo, Google bắt đầu tự động chặn các email giả mạo",https://www.congluan.vn/bao-ve-nguoi-dung-khoi-lua-dao-google-bat-dau-tu-dong-chan-cac-email-gia-mao-post290944.html
+253,6,05-04-2024,"Xiaomi ra mắt Redmi A3, giá từ 2.49 triệu đồng",https://www.congluan.vn/xiaomi-ra-mat-redmi-a3-gia-tu-249-trieu-dong-post290568.html
+254,5,04-04-2024,CMC TS: Tiên phong cùng sứ mệnh chuyển đổi số quốc gia,https://www.congluan.vn/cmc-ts-tien-phong-cung-su-menh-chuyen-doi-so-quoc-gia-post290434.html
+255,6,03-04-2024,Xiaomi ra mắt Civi 4 Pro phiên bản PANDA FACTORY,https://www.congluan.vn/xiaomi-ra-mat-civi-4-pro-phien-ban-panda-factory-post290321.html
+256,3,02-04-2024,OnePlus Nord CE 4 trình làng với giá từ 7.45 triệu đồng,https://www.congluan.vn/oneplus-nord-ce-4-trinh-lang-voi-gia-tu-745-trieu-dong-post290178.html
+257,6,01-04-2024,20 năm Gmail ra đời: Từ trò đùa Cá tháng Tư đến đỉnh cao công nghệ,https://www.congluan.vn/20-nam-gmail-ra-doi-tu-tro-dua-ca-thang-tu-den-dinh-cao-cong-nghe-post289958.html
+258,6,30-03-2024,Ngắm nhìn smartphone Itel S24 ra mắt,https://www.congluan.vn/ngam-nhin-smartphone-itel-s24-ra-mat-post289795.html
+259,5,29-03-2024,Samsung cập nhật Galaxy AI cho hàng triệu thiết bị Galaxy,https://www.congluan.vn/samsung-cap-nhat-galaxy-ai-cho-hang-trieu-thiet-bi-galaxy-post289626.html
+260,6,27-03-2024,Xiaomi POCO C61 lộ diện thiết kế và thông số kỹ thuật ấn tượng,https://www.congluan.vn/xiaomi-poco-c61-lo-dien-thiet-ke-va-thong-so-ky-thuat-an-tuong-post289342.html
+261,6,26-03-2024,Apple phát hành macOS Sonoma 14.4.1 với bản sửa lỗi cho USB Hub,https://www.congluan.vn/apple-phat-hanh-macos-sonoma-1441-voi-ban-sua-loi-cho-usb-hub-post289217.html
+262,6,25-03-2024,Cập nhật Google Play giúp truy cập tìm kiếm dễ dàng hơn,https://www.congluan.vn/cap-nhat-google-play-giup-truy-cap-tim-kiem-de-dang-hon-post289158.html
+263,6,25-03-2024,Kính mắt Xiaomi Mijia Smart Audio Glasses có gì đặc biệt?,https://www.congluan.vn/kinh-mat-xiaomi-mijia-smart-audio-glasses-co-gi-dac-biet-post289140.html
+264,6,23-03-2024,"OnePlus trình làng Ace 3V giá từ 6,9 triệu đồng",https://www.congluan.vn/oneplus-trinh-lang-ace-3v-gia-tu-69-trieu-dong-post288871.html
+265,6,22-03-2024,Cận cảnh Honor Magic 6 Ultimate,https://www.congluan.vn/can-canh-honor-magic-6-ultimate-post288665.html
+266,6,21-03-2024,Lenovo trình làng laptop Yoga Pro 9,https://www.congluan.vn/lenovo-trinh-lang-laptop-yoga-pro-9-post288638.html
+267,5,20-03-2024,"Realme Narzo 70 Pro 5G trình làng, giá từ 5,96 triệu đồng",https://www.congluan.vn/realme-narzo-70-pro-5g-trinh-lang-gia-tu-596-trieu-dong-post288495.html
+268,6,19-03-2024,"HONOR trình làng Magic 6 Ultimate Edition, giá từ 24 triệu đồng",https://www.congluan.vn/honor-trinh-lang-magic-6-ultimate-edition-gia-tu-24-trieu-dong-post288380.html
+269,6,18-03-2024,Ấn định ngày ra mắt vivo X Fold 3,https://www.congluan.vn/an-dinh-ngay-ra-mat-vivo-x-fold-3-post288302.html
+270,6,18-03-2024,Miễn phí camera an ninh cho toàn bộ khách hàng dùng Internet Viettel,https://www.congluan.vn/mien-phi-camera-an-ninh-cho-toan-bo-khach-hang-dung-internet-viettel-post288285.html
+271,1,13-06-2024,Thanh Hoá: Khẩn trương chỉ đạo làm rõ việc Công ty Đại Dũng phá huỷ công trình thuỷ lợi,https://www.congluan.vn/thanh-hoa-khan-truong-chi-dao-lam-ro-viec-cong-ty-dai-dung-pha-huy-cong-trinh-thuy-loi-post299112.html
+272,6,12-06-2024,Thanh Hoá: Cần xử lí nghiêm hành vi phá hủy công trình thuỷ lợi của Công ty Đại Dũng,https://www.congluan.vn/thanh-hoa-can-xu-li-nghiem-hanh-vi-pha-huy-cong-trinh-thuy-loi-cua-cong-ty-dai-dung-post298968.html
+273,6,11-06-2024,"Thái Bình: Vì sao doanh thu của Công ty CP Xây dựng Công trình Nam Đô ""nhảy múa"" theo từng gói thầu?",https://www.congluan.vn/thai-binh-vi-sao-doanh-thu-cua-cong-ty-cp-xay-dung-cong-trinh-nam-do-nhay-mua-theo-tung-goi-thau-post298283.html
+274,6,09-06-2024,Gia Lai: Dấu hiệu ''đội giá'' gói thầu tại dự án do Ban QLDA Gia Lai làm chủ đầu tư?,https://www.congluan.vn/gia-lai-dau-hieu-doi-gia-goi-thau-tai-du-an-do-ban-qlda-gia-lai-lam-chu-dau-tu-post298381.html
+275,6,09-06-2024,Tiểu thương 'kêu cứu' vì bị thu hồi lại các quầy dịch vụ tại Đà Nẵng: Cần xem xét sự việc thấu tình đạt lý!,https://www.congluan.vn/tieu-thuong-keu-cuu-vi-bi-thu-hoi-lai-cac-quay-dich-vu-tai-da-nang-can-xem-xet-su-viec-thau-tinh-dat-ly-post297543.html
+276,6,07-06-2024,"Nho Quan (Ninh Bình): Trạm trộn bê tông hoạt động không phép, có dấu hiệu gây ô nhiễm môi trường?",https://www.congluan.vn/nho-quan-ninh-binh-tram-tron-be-tong-hoat-dong-khong-phep-co-dau-hieu-gay-o-nhiem-moi-truong-post298403.html
+277,6,07-06-2024,Ai đang đứng sau chuỗi quán bar Heyo Club và A Plus có dấu hiệu coi thường pháp luật?,https://www.congluan.vn/ai-dang-dung-sau-chuoi-quan-bar-heyo-club-va-a-plus-co-dau-hieu-coi-thuong-phap-luat-post298091.html
+278,1,07-06-2024,"Mỹ Đức (Hà Nội): Công ty TNHH Đại Điền một ngày trúng nhiều gói thầu có tỉ lệ tiết kiệm ""siêu thấp""",https://www.congluan.vn/my-duc-ha-noi-cong-ty-tnhh-dai-dien-mot-ngay-trung-nhieu-goi-thau-co-ti-le-tiet-kiem-sieu-thap-post298088.html
+279,1,06-06-2024,"Xử lý vi phạm trật tự xây dựng ở Lâm Đồng: Nơi được nộp tiền để hợp thức, nơi bị yêu cầu tháo dỡ",https://www.congluan.vn/xu-ly-vi-pham-trat-tu-xay-dung-o-lam-dong-noi-duoc-nop-tien-de-hop-thuc-noi-bi-yeu-cau-thao-do-post298326.html
+280,4,06-06-2024,"Hủy bỏ phê duyệt Đồ án điều chỉnh quy hoạch chi tiết Cụm công nghiệp Lâm Bình: Cần làm rõ trách nhiệm tổ chức, cá nhân có liên quan!",https://www.congluan.vn/huy-bo-phe-duyet-do-an-dieu-chinh-quy-hoach-chi-tiet-cum-cong-nghiep-lam-binh-can-lam-ro-trach-nhiem-to-chuc-ca-nhan-co-lien-quan-post298221.html
+281,6,05-06-2024,Dấu hiệu giá cao 'bất thường' ở gói thầu mua sắm thiết bị y tế hơn 58 tỷ đồng tại Sở Y tế Lạng Sơn?,https://www.congluan.vn/dau-hieu-gia-cao-bat-thuong-o-goi-thau-mua-sam-thiet-bi-y-te-hon-58-ty-dong-tai-so-y-te-lang-son-post297988.html
+282,6,04-06-2024,Vụ tranh chấp đất đai tại huyện Ea Hleo (Đắk Lắk): Mong chờ một cái kết có hậu!,https://www.congluan.vn/vu-tranh-chap-dat-dai-tai-huyen-ea-hleo-dak-lak-mong-cho-mot-cai-ket-co-hau-post297643.html
+283,6,02-06-2024,Quảng Ninh: Công ty Hải Dương Xanh trúng hàng loạt gói thầu “siêu tiết kiệm” tại BQLDA đầu tư xây dựng huyện Vân Đồn,https://www.congluan.vn/quang-ninh-cong-ty-hai-duong-xanh-trung-hang-loat-goi-thau-sieu-tiet-kiem-tai-bqlda-dau-tu-xay-dung-huyen-van-don-post297251.html
+284,1,01-06-2024,"Bài 2: Cận cảnh những vi phạm về xây dựng, đất đai, môi trường của Công ty Phú Nguyên",https://www.congluan.vn/bai-2-can-canh-nhung-vi-pham-ve-xay-dung-dat-dai-moi-truong-cua-cong-ty-phu-nguyen-post297526.html
+285,6,30-05-2024,"Hà Tĩnh: Dự án khu biệt thự nghỉ dưỡng, khách sạn, nhà hàng cao cấp gần 400 tỷ đồng ngổn ngang sau 5 năm thi công",https://www.congluan.vn/ha-tinh-du-an-khu-biet-thu-nghi-duong-khach-san-nha-hang-cao-cap-gan-400-ty-dong-ngon-ngang-sau-5-nam-thi-cong-post297399.html
+286,2,30-05-2024,"Cần xử lý nghiêm trách nhiệm tổ chức, cá nhân có liên quan!",https://www.congluan.vn/can-xu-ly-nghiem-trach-nhiem-to-chuc-ca-nhan-co-lien-quan-post297398.html
+287,4,30-05-2024,"'Điểm mặt' loạt dự án sinh thái, nghỉ dưỡng thực hiện không đúng tiến độ!",https://www.congluan.vn/diem-mat-loat-du-an-sinh-thai-nghi-duong-thuc-hien-khong-dung-tien-do-post297230.html
+288,6,29-05-2024,Công ty TNHH Tài Hoa phản hồi sau phản ánh của báo Nhà báo và Công luận,https://www.congluan.vn/cong-ty-tnhh-tai-hoa-phan-hoi-sau-phan-anh-cua-bao-nha-bao-va-cong-luan-post297320.html
+289,6,29-05-2024,Huyện Gia Lâm sẽ chỉ đạo xử lí việc san lấp đất công lập chợ tạm tại xã Yên Thường,https://www.congluan.vn/huyen-gia-lam-se-chi-dao-xu-li-viec-san-lap-dat-cong-lap-cho-tam-tai-xa-yen-thuong-post297155.html
+290,1,28-05-2024,Hưng Yên: Công ty Tài Hoa và những gói trúng thầu có tỉ lệ “siêu tiết kiệm”?,https://www.congluan.vn/hung-yen-cong-ty-tai-hoa-va-nhung-goi-trung-thau-co-ti-le-sieu-tiet-kiem-post296929.html
+291,6,27-05-2024,"Người dân phủ nhận ký tên biên bản hiệp thương với UBND huyện Nhà Bè, toà cho giám định chữ ký",https://www.congluan.vn/nguoi-dan-phu-nhan-ky-ten-bien-ban-hiep-thuong-voi-ubnd-huyen-nha-be-toa-cho-giam-dinh-chu-ky-post297078.html
+292,6,27-05-2024,Hà Nội: Những ''cụm dân cư'' đua nhau ''mọc'' trên đất nông nghiệp ở huyện Hoài Đức,https://www.congluan.vn/ha-noi-nhung-cum-dan-cu-dua-nhau-moc-tren-dat-nong-nghiep-o-huyen-hoai-duc-post296883.html
+293,1,27-05-2024,Công ty Hải Lộc và các gói thầu tiết kiệm thấp cho ngân sách tại tỉnh Điện Biên,https://www.congluan.vn/cong-ty-hai-loc-va-cac-goi-thau-tiet-kiem-thap-cho-ngan-sach-tai-tinh-dien-bien-post296579.html
+294,6,23-05-2024,"Hà Nội hủy kết quả đấu giá quyền khai thác 03 mỏ cát, vì sao doanh nghiệp vẫn mong muốn được công nhận?",https://www.congluan.vn/ha-noi-huy-ket-qua-dau-gia-quyen-khai-thac-03-mo-cat-vi-sao-doanh-nghiep-van-mong-muon-duoc-cong-nhan-post296228.html
+295,6,23-05-2024,Bắc Giang: Cần xử lý nghiêm trách nhiệm của cán bộ cấp sai Giấy chứng nhận quyền sử dụng đất!,https://www.congluan.vn/bac-giang-can-xu-ly-nghiem-trach-nhiem-cua-can-bo-cap-sai-giay-chung-nhan-quyen-su-dung-dat-post296525.html
+296,1,23-05-2024,"Huyện Tân Lạc (Hòa Bình): Có dấu hiệu mua gom trái phép, đẩy giá đất rừng “tăng nóng”",https://www.congluan.vn/huyen-tan-lac-hoa-binh-co-dau-hieu-mua-gom-trai-phep-day-gia-dat-rung-tang-nong-post296524.html
+297,6,22-05-2024,“Tam mã” liên tiếp trúng thầu cung cấp thiết bị thể thao ngoài trời tại Vĩnh Phúc,https://www.congluan.vn/tam-ma-lien-tiep-trung-thau-cung-cap-thiet-bi-the-thao-ngoai-troi-tai-vinh-phuc-post296137.html
+298,6,21-05-2024,Lạng Sơn: Sở Nội vụ thông tin về gói thầu xây dựng phần mềm quản lý thi đua khen thưởng,https://www.congluan.vn/lang-son-so-noi-vu-thong-tin-ve-goi-thau-xay-dung-phan-mem-quan-ly-thi-dua-khen-thuong-post295517.html
+299,1,17-05-2024,Công trình tượng đài nữ pháo binh Ngư Thủy xuống cấp: Cần sớm được đầu tư tu sửa,https://www.congluan.vn/cong-trinh-tuong-dai-nu-phao-binh-ngu-thuy-xuong-cap-can-som-duoc-dau-tu-tu-sua-post295673.html
+300,1,16-05-2024,Bắc Ninh: Công ty Đông Đô “khổ sở” kêu cứu vì bị… chồng lấn quy hoạch?,https://www.congluan.vn/bac-ninh-cong-ty-dong-do-kho-so-keu-cuu-vi-bi-chong-lan-quy-hoach-post295670.html
+301,6,16-05-2024,Quán cà phê “mọc” giữa ruộng: Vì sao UBND xã Chư Đang Ya xin cơ chế đặc thù?,https://www.congluan.vn/quan-ca-phe-moc-giua-ruong-vi-sao-ubnd-xa-chu-dang-ya-xin-co-che-dac-thu-post295477.html
+302,1,15-05-2024,"Yêu cầu Trường Cao đẳng Y - Dược cộng đồng báo cáo việc thành lập ""Viện Đào tạo làm đẹp""",https://www.congluan.vn/yeu-cau-truong-cao-dang-y--duoc-cong-dong-bao-cao-viec-thanh-lap-vien-dao-tao-lam-dep-post295513.html
+303,6,15-05-2024,"Những nhà thầu ""quen mặt"" tại các gói thầu của Sở GTVT Cao Bằng",https://www.congluan.vn/nhung-nha-thau-quen-mat-tai-cac-goi-thau-cua-so-gtvt-cao-bang-post295445.html
+304,2,15-05-2024,Bắc Kạn: Dấu hiệu “đội giá” 3 gói thầu mua sắm tại phòng Giáo dục và đào tạo huyện Chợ Đồn?,https://www.congluan.vn/bac-kan-dau-hieu-doi-gia-3-goi-thau-mua-sam-tai-phong-giao-duc-va-dao-tao-huyen-cho-don-post295363.html
+305,6,14-05-2024,Gói thầu hơn 800 tỷ đồng liên quan đến Tập đoàn Thuận An: Sở GTVT tỉnh Lạng Sơn ''nói'' gì?,https://www.congluan.vn/goi-thau-hon-800-ty-dong-lien-quan-den-tap-doan-thuan-an-so-gtvt-tinh-lang-son-noi-gi-post295434.html
+306,1,14-05-2024,Lạng Sơn thành lập tổ kiểm tra gói thầu liên quan đến Tập đoàn Thuận An,https://www.congluan.vn/lang-son-thanh-lap-to-kiem-tra-goi-thau-lien-quan-den-tap-doan-thuan-an-post295376.html
+307,6,14-05-2024,Yêu cầu kiểm điểm nhiều cán bộ huyện Hiệp Hoà trong vụ cấp sai GCNQSDĐ tại xã Mai Trung,https://www.congluan.vn/yeu-cau-kiem-diem-nhieu-can-bo-huyen-hiep-hoa-trong-vu-cap-sai-gcnqsdd-tai-xa-mai-trung-post295282.html
+308,1,14-05-2024,Sở GTVT tỉnh Cao Bằng và những gói thầu 'siêu tiết kiệm'?,https://www.congluan.vn/so-gtvt-tinh-cao-bang-va-nhung-goi-thau-sieu-tiet-kiem-post295279.html
+309,6,13-05-2024,Tam Dương (Vĩnh Phúc): 'Ngổn ngang' tại các dự án đấu giá quyền sử dụng đất và giao đất ở?,https://www.congluan.vn/tam-duong-vinh-phuc-ngon-ngang-tai-cac-du-an-dau-gia-quyen-su-dung-dat-va-giao-dat-o-post295185.html
+310,6,13-05-2024,Hiệp Hòa (Bắc Giang): Sai phạm trong cấp giấy chứng nhận quyền sử dụng đất tại xã Mai Trung!,https://www.congluan.vn/hiep-hoa-bac-giang-sai-pham-trong-cap-giay-chung-nhan-quyen-su-dung-dat-tai-xa-mai-trung-post295285.html
+311,1,10-05-2024,TP Việt Trì (Phú Thọ): Công ty Trường Thịnh bị phát hiện thi công thiếu thép?,https://www.congluan.vn/tp-viet-tri-phu-tho-cong-ty-truong-thinh-bi-phat-hien-thi-cong-thieu-thep-post294673.html
+312,6,10-05-2024,“Cặp đôi” nhà thầu liên tục “hoán đổi” vị trí trúng - trượt thầu tại SAWACO,https://www.congluan.vn/cap-doi-nha-thau-lien-tuc-hoan-doi-vi-tri-trung--truot-thau-tai-sawaco-post294381.html
+313,1,09-05-2024,Dự án chăn nuôi bò nghìn tỷ ở Hà Tĩnh nhiều năm bết bát: Có thể hồi sinh?,https://www.congluan.vn/du-an-chan-nuoi-bo-nghin-ty-o-ha-tinh-nhieu-nam-bet-bat-co-the-hoi-sinh-post294748.html
+314,6,09-05-2024,Bắc Giang: Nhiều sai phạm tại dự án Xây dựng bãi tập kết và trung chuyển than của Công ty Cổ phần Hoàng Ninh Group,https://www.congluan.vn/bac-giang-nhieu-sai-pham-tai-du-an-xay-dung-bai-tap-ket-va-trung-chuyen-than-cua-cong-ty-co-phan-hoang-ninh-group-post294746.html
+315,6,08-05-2024,Hưng Yên: Vì sao Công ty Cổ phần Vân Đức ngang nhiên hoạt động dù thực hiện trái chủ trương đầu tư?,https://www.congluan.vn/hung-yen-vi-sao-cong-ty-co-phan-van-duc-ngang-nhien-hoat-dong-du-thuc-hien-trai-chu-truong-dau-tu-post293923.html
+316,1,08-05-2024,"Trường Cao đẳng Y - Dược cộng đồng lập ""Viện Đào tạo làm đẹp"" để tuyển sinh?",https://www.congluan.vn/truong-cao-dang-y--duoc-cong-dong-lap-vien-dao-tao-lam-dep-de-tuyen-sinh-post294044.html
+317,1,07-05-2024,Công ty cổ phần Thủy điện Nậm He bị phạt 180 triệu vì vận hành khi chưa nghiệm thu,https://www.congluan.vn/cong-ty-co-phan-thuy-dien-nam-he-bi-phat-180-trieu-vi-van-hanh-khi-chua-nghiem-thu-post294499.html
+318,6,06-05-2024,"Quán cà phê “mọc” giữa ruộng: UBND huyện Chư Păh chỉ đạo kiểm tra, xử lý",https://www.congluan.vn/quan-ca-phe-moc-giua-ruong-ubnd-huyen-chu-pah-chi-dao-kiem-tra-xu-ly-post294387.html
+319,1,04-05-2024,"Gia Lai: Quán cà phê ""mọc"" giữa ruộng lúa, chính quyền nói chưa sai?",https://www.congluan.vn/gia-lai-quan-ca-phe-moc-giua-ruong-lua-chinh-quyen-noi-chua-sai-post294166.html
+320,1,02-05-2024,Hải Dương: Tạm dừng đầu tư dự án xây dựng cầu vượt sông Bắc Hưng Hải tại thị trấn Kẻ Sặt,https://www.congluan.vn/hai-duong-tam-dung-dau-tu-du-an-xay-dung-cau-vuot-song-bac-hung-hai-tai-thi-tran-ke-sat-post293900.html
+321,1,26-04-2024,Tiên Lãng (Hải Phòng): Bất cập trong việc quản lý và sử dụng SVĐ huyện sau 16 năm 'xã hội hóa'?,https://www.congluan.vn/tien-lang-hai-phong-bat-cap-trong-viec-quan-ly-va-su-dung-svd-huyen-sau-16-nam-xa-hoi-hoa-post292901.html
+322,6,26-04-2024,Kon Tum: Vì sao doanh thu của Công ty TNHH MTV Lâm Kim Gia Lai 'nhảy múa' theo từng gói thầu?,https://www.congluan.vn/kon-tum-vi-sao-doanh-thu-cua-cong-ty-tnhh-mtv-lam-kim-gia-lai-nhay-mua-theo-tung-goi-thau-post292958.html
+323,6,26-07-2024,"Clip: Khỉ đau đớn, kêu la thảm thiết khi nằm gọn trong hàm răng sắc nhọn của rồng Komodo",https://doanhnghiepvn.vn/kham-pha/clip-khi-dau-don-keu-la-tham-thiet-khi-nam-gon-trong-ham-rang-sac-nhon-cua-rong-komodo/20240725105437167
+324,2,26-07-2024,"Chồng ốm thập tử nhất sinh mới yêu cầu vợ cho gặp mặt nhân tình và con riêng lần cuối, cô miễn cưỡng gật đầu song phản ứng của ả bồ lại khiến anh sốc nặng",https://doanhnghiepvn.vn/doi-song/chong-om-thap-tu-nhat-sinh-moi-yeu-cau-vo-cho-gap-mat-nhan-tinh-va-con-rieng-lan-cuoi-co-mien-cuong-gat-dau-song-phan-ung-cua-a-bo-lai-khien-anh-soc-nang/20240725111009900
+325,6,26-07-2024,"Những suy nghĩ sai lầm nhất của phụ nữ về người thứ ba, đừng tự hại mình vì dại khờ!",https://doanhnghiepvn.vn/doi-song/nhung-suy-nghi-sai-lam-nhat-cua-phu-nu-ve-nguoi-thu-ba-dung-tu-hai-minh-vi-dai-kho/20240725112621520
+326,1,23-07-2024,Ấn Độ giảm thuế nhập khẩu vàng và bạc để giải quyết nạn buôn lậu,https://petrotimes.vn/an-do-giam-thue-nhap-khau-vang-va-bac-de-giai-quyet-nan-buon-lau-714769.html
+327,6,23-07-2024,Tin tức kinh tế ngày 23/7: Nợ xấu ngân hàng có xu hướng tăng,https://petrotimes.vn/tin-tuc-kinh-te-ngay-237-no-xau-ngan-hang-co-xu-huong-tang-714755.html
+328,1,23-07-2024,Giá dầu hôm nay (23/7): Dầu thô quay đầu giảm,https://petrotimes.vn/gia-dau-hom-nay-237-dau-tho-quay-dau-giam-714739.html
+329,1,23-07-2024,Thu hồi giấy phép của hai doanh nghiệp phân phối xăng dầu,https://petrotimes.vn/thu-hoi-giay-phep-cua-hai-doanh-nghiep-phan-phoi-xang-dau-714737.html
+330,6,23-07-2024,Bản tin Năng lượng Quốc tế 23/7: Giá khí đốt chuẩn Châu Âu giảm mạnh,https://petrotimes.vn/ban-tin-nang-luong-quoc-te-237-gia-khi-dot-chuan-chau-au-giam-manh-714726.html
+331,2,23-07-2024,Giá vàng hôm nay (23/7): Đồng loạt giảm,https://petrotimes.vn/gia-vang-hom-nay-237-dong-loat-giam-714736.html
+332,6,28-06-2024,"Giá thủy sản xuất khẩu sụt giảm, kỳ vọng thị trường phục hồi vào cuối năm",https://petrotimes.vn/gia-thuy-san-xuat-khau-sut-giam-ky-vong-thi-truong-phuc-hoi-vao-cuoi-nam-713455.html
+333,6,26-06-2024,Quản trị doanh nghiệp và trách nhiệm xã hội của doanh nghiệp trong lĩnh vực dầu khí (Kỳ 2),https://petrotimes.vn/quan-tri-doanh-nghiep-va-trach-nhiem-xa-hoi-cua-doanh-nghiep-trong-linh-vuc-dau-khi-ky-2-713225.html
+334,6,25-06-2024,Quản trị doanh nghiệp và trách nhiệm xã hội của doanh nghiệp trong lĩnh vực dầu khí (Kỳ 1),https://petrotimes.vn/quan-tri-doanh-nghiep-va-trach-nhiem-xa-hoi-cua-doanh-nghiep-trong-linh-vuc-dau-khi-ky-1-713223.html
+335,6,25-06-2024,Ngành bán lẻ của Trung Quốc ảm đạm sau lễ hội mua sắm giữa năm,https://petrotimes.vn/nganh-ban-le-cua-trung-quoc-am-dam-sau-le-hoi-mua-sam-giua-nam-713271.html
+336,6,10-06-2024,Đề xuất đánh thuế giao dịch vàng,https://petrotimes.vn/de-xuat-danh-thue-giao-dich-vang-712589.html
+337,6,21-07-2024,"Giải pháp trọng tâm thúc đẩy tăng trưởng, kiểm soát lạm phát, ổn định kinh tế vĩ mô tháng 7 và quý III/2024",https://petrotimes.vn/giai-phap-trong-tam-thuc-day-tang-truong-kiem-soat-lam-phat-on-dinh-kinh-te-vi-mo-thang-7-va-quy-iii2024-714667.html
+338,6,20-07-2024,Một sự nghiệp vĩ đại được dẫn dắt bởi một con người bình dị,https://petrotimes.vn/mot-su-nghiep-vi-dai-duoc-dan-dat-boi-mot-con-nguoi-binh-di-714635.html
+339,1,20-07-2024,"Tổng Bí thư Nguyễn Phú Trọng: Người cộng sản quyết liệt, kiên trung và liêm khiết",https://petrotimes.vn/tong-bi-thu-nguyen-phu-trong-nguoi-cong-san-quyet-liet-kien-trung-va-liem-khiet-714626.html
+340,1,20-07-2024,Thông cáo đặc biệt về Lễ tang Tổng Bí thư Nguyễn Phú Trọng,https://petrotimes.vn/thong-cao-dac-biet-ve-le-tang-tong-bi-thu-nguyen-phu-trong-714627.html
+341,1,20-07-2024,Cuba tuyên bố quốc tang tưởng niệm Tổng Bí thư Nguyễn Phú Trọng,https://petrotimes.vn/cuba-tuyen-bo-quoc-tang-tuong-niem-tong-bi-thu-nguyen-phu-trong-714625-714625.html
+342,2,26-06-2024,Thủ tướng khẳng định Việt Nam không thiếu điện,https://petrotimes.vn/thu-tuong-khang-dinh-viet-nam-khong-thieu-dien-713340.html
+343,2,19-07-2024,Nghiên cứu thành lập sàn giao dịch xăng dầu,https://petrotimes.vn/nghien-cuu-thanh-lap-san-giao-dich-xang-dau-714581.html
+344,6,11-07-2024,Liệu Ấn Độ có thể mua dầu của Nga với giá rẻ hơn?,https://petrotimes.vn/lieu-an-do-co-the-mua-dau-cua-nga-voi-gia-re-hon-714087.html
+345,1,03-07-2024,Avenue JSC triển khai thành công dự án thí điểm Maximo Application Suite,https://petrotimes.vn/avenue-jsc-trien-khai-thanh-cong-du-an-thi-diem-maximo-application-suite-713651.html
+346,2,05-07-2024,Nhà giàn DK1 - Cột mốc chủ quyền biển đảo quê hương,https://petrotimes.vn/nha-gian-dk1-cot-moc-chu-quyen-bien-dao-que-huong-713836.html
+347,6,18-07-2024,Các biện pháp khuyến khích sản xuất điện gió của Vương quốc Anh,https://petrotimes.vn/cac-bien-phap-khuyen-khich-san-xuat-dien-gio-cua-vuong-quoc-anh-714443.html
+348,6,17-07-2024,Nga sẽ thực hiện cắt giảm sản lượng dầu vào mùa hè,https://petrotimes.vn/nga-se-thuc-hien-cat-giam-san-luong-dau-vao-mua-he-714440.html
+349,6,17-07-2024,Các lưu vực chưa được thăm dò của Ấn Độ chứa nhiều dầu hơn Permian,https://petrotimes.vn/cac-luu-vuc-chua-duoc-tham-do-cua-an-do-chua-nhieu-dau-hon-permian-714429.html
+350,6,15-07-2024,Pháp và EU tiếp tục bế tắc về Kế hoạch Năng lượng - Khí hậu,https://petrotimes.vn/phap-va-eu-tiep-tuc-be-tac-ve-ke-hoach-nang-luong-khi-hau-714276.html
+351,6,15-07-2024,Vì sao ngành khí công nghiệp tăng trưởng vượt bậc?,https://petrotimes.vn/vi-sao-nganh-khi-cong-nghiep-tang-truong-vuot-bac-714281.html
+352,6,15-07-2024,Vì sao dầu mỏ được giao dịch trong biên độ hẹp?,https://petrotimes.vn/vi-sao-dau-mo-duoc-giao-dich-trong-bien-do-hep-714272.html
+353,2,24-07-2024,Kế hoạch cải cách kinh tế giảm phụ thuộc vào dầu mỏ của Arập Xê Út đang ở đâu?,https://petrotimes.vn/ke-hoach-cai-cach-kinh-te-giam-phu-thuoc-vao-dau-mo-cua-arap-xe-ut-dang-o-dau-714776.html
+354,6,24-07-2024,Giá dầu hôm nay (24/7): Dầu thô tiếp đà giảm,https://petrovietnam.petrotimes.vn/gia-dau-hom-nay-247-dau-tho-tiep-da-giam-714802.html
+355,6,25-07-2024,Giá dầu hôm nay (25/7): Dầu thô đi ngang,https://petrovietnam.petrotimes.vn/gia-dau-hom-nay-257-dau-tho-di-ngang-714846.html
+356,6,24-07-2024,Bức tranh điện gió ngoài khơi: Triển vọng và những vấn đề đặt ra (Kỳ IX),https://petrovietnam.petrotimes.vn/buc-tranh-dien-gio-ngoai-khoi-trien-vong-va-nhung-van-de-dat-ra-ky-ix-714446.html
+357,6,24-07-2024,Không để đứt gãy chuỗi cung ứng xăng dầu năm 2024,https://petrovietnam.petrotimes.vn/khong-de-dut-gay-chuoi-cung-ung-xang-dau-nam-2024-714777.html
+358,6,25-07-2024,Bức tranh điện gió ngoài khơi: Triển vọng và những vấn đề đặt ra (Kỳ X),https://petrovietnam.petrotimes.vn/buc-tranh-dien-gio-ngoai-khoi-trien-vong-va-nhung-van-de-dat-ra-ky-x-714549.html
+359,6,24-07-2024,"Vietsovpetro tham gia tri ân thương, bệnh binh và người có công với cách mạng",https://petrovietnam.petrotimes.vn/vietsovpetro-tham-gia-tri-an-thuong-benh-binh-va-nguoi-co-cong-voi-cach-mang-714826.html
+360,6,02-04-2024,Chớ thử vận may qua những điều nhảm nhí!,https://petrotimes.vn/cho-thu-van-may-qua-nhung-dieu-nham-nhi-708570.html
+361,6,26-03-2024,Phía sau những “đại gia” bị sa lưới pháp luật,https://petrotimes.vn/phia-sau-nhung-dai-gia-bi-sa-luoi-phap-luat-708151.html
+362,6,19-03-2024,Lời nhắn gửi tới phiên tòa,https://petrotimes.vn/loi-nhan-gui-toi-phien-toa-707676.html
+363,6,05-03-2024,“Nhảy việc” - Chuyện cũ và mới,https://petrotimes.vn/nhay-viec-chuyen-cu-va-moi-706748.html
+364,1,02-03-2024,Suy ngẫm về “Mãnh liệt tinh thần Việt Nam” lần thứ 2,https://petrotimes.vn/suy-ngam-ve-manh-liet-tinh-than-viet-nam-lan-thu-2-706571.html
+365,6,28-02-2024,Đừng “bỏ quên” văn hóa giao thông,https://petrotimes.vn/dung-bo-quen-van-hoa-giao-thong-706372.html
+366,6,21-02-2024,"“Tả tơi” đi hội, đi chùa",https://petrotimes.vn/ta-toi-di-hoi-di-chua-705884.html
+367,6,21-07-2024,"Áp thấp nhiệt đới tăng cấp, khả năng mạnh lên thành bão",https://petrotimes.vn/ap-thap-nhiet-doi-tang-cap-kha-nang-manh-len-thanh-bao-714636.html
+368,6,20-07-2024,"Tử vi ngày 21/7/2024: Tuổi Tỵ dám nghĩ dám làm, tuổi Mùi điều kiện lý tưởng",https://petrotimes.vn/tu-vi-ngay-2172024-tuoi-ty-dam-nghi-dam-lam-tuoi-mui-dieu-kien-ly-tuong-714631.html
+369,4,20-07-2024,Áp thấp nhiệt đới trên Biển Đông: Diễn biến và dự báo,https://petrotimes.vn/ap-thap-nhiet-doi-tren-bien-dong-dien-bien-va-du-bao-714613.html
+370,6,20-07-2024,"Biển Đông sắp hứng bão, mưa lớn khắp cả nước",https://petrotimes.vn/bien-dong-sap-hung-bao-mua-lon-khap-ca-nuoc-714609.html
+371,1,19-07-2024,Phá thành công hơn 17 nghìn vụ án về ma túy,https://petrotimes.vn/pha-thanh-cong-hon-17-nghin-vu-an-ve-ma-tuy-714586.html
+372,6,19-07-2024,Bắt tạm giam Tổng giám đốc Quốc Cường Gia Lai Nguyễn Thị Như Loan,https://petrotimes.vn/bat-tam-giam-tong-giam-doc-quoc-cuong-gia-lai-nguyen-thi-nhu-loan-714583.html
+373,6,04-06-2024,Hà Nội: 700 học sinh được tuyển thẳng vào lớp 10,https://petrotimes.vn/ha-noi-700-hoc-sinh-duoc-tuyen-thang-vao-lop-10-712308.html
+374,6,03-06-2024,"Hà Nội điều động gần 15.500 cán bộ, giáo viên tham gia kỳ thi tuyển sinh lớp 10",https://petrotimes.vn/ha-noi-dieu-dong-gan-15500-can-bo-giao-vien-tham-gia-ky-thi-tuyen-sinh-lop-10-712240.html
+375,6,01-06-2024,Hà Nội: Kiện toàn nhân sự Trường THCS Giảng Võ 2,https://petrotimes.vn/ha-noi-kien-toan-nhan-su-truong-thcs-giang-vo-2-712192.html
+376,6,30-05-2024,Hà Nội tuyển sinh bổ sung hơn 3.200 chỉ tiêu vào lớp 10,https://petrotimes.vn/ha-noi-tuyen-sinh-bo-sung-hon-3200-chi-tieu-vao-lop-10-712052.html
+377,1,14-07-2024,Khám bệnh và tặng quà gia đình chính sách tại Quảng Bình,https://petrotimes.vn/kham-benh-va-tang-qua-gia-dinh-chinh-sach-tai-quang-binh-714243.html
+378,1,13-07-2024,"Long Châu nỗ lực từng ngày để hoàn thiện, không ngừng nâng cao chất lượng dịch vụ",https://petrotimes.vn/long-chau-no-luc-tung-ngay-de-hoan-thien-khong-ngung-nang-cao-chat-luong-dich-vu-714212.html
+379,6,19-06-2024,Chăm chút bữa ăn giữa ca cho người lao động,https://petrotimes.vn/cham-chut-bua-an-giua-ca-cho-nguoi-lao-dong-712962.html
+380,5,03-06-2024,Cappadocia - Thành phố ngầm kỳ lạ nhất thế giới,https://petrotimes.vn/cappadocia-thanh-pho-ngam-ky-la-nhat-the-gioi-712000.html
+381,6,19-05-2024,Thành phố thông minh của tương lai,https://petrotimes.vn/thanh-pho-thong-minh-cua-tuong-lai-711174.html
+382,6,19-07-2024,"Tử vi ngày 20/7/2024: Tuổi Thìn cơ hội thăng tiến, tuổi Dậu lợi nhuận đổ về",https://petrotimes.vn/tu-vi-ngay-2072024-tuoi-thin-co-hoi-thang-tien-tuoi-dau-loi-nhuan-do-ve-714591.html
+383,1,18-07-2024,"Tử vi ngày 19/7/2024: Tuổi Ngọ phát triển đáng mừng, tuổi Dần tình cảm rạn nứt",https://petrotimes.vn/tu-vi-ngay-1972024-tuoi-ngo-phat-trien-dang-mung-tuoi-dan-tinh-cam-ran-nut-714512.html
+384,6,17-07-2024,"Tử vi ngày 18/7/2024: Tuổi Tý phong thái nhanh nhẹn, tuổi Mùi tin vui báo về",https://petrotimes.vn/tu-vi-ngay-1872024-tuoi-ty-phong-thai-nhanh-nhen-tuoi-mui-tin-vui-bao-ve-714452.html
+385,6,25-07-2024,NMNĐ Sông Hậu 1 tập trung thực hiện nhiệm vụ 6 tháng cuối năm 2024,https://petrotimes.vn/nmnd-song-hau-1-tap-trung-thuc-hien-nhiem-vu-6-thang-cuoi-nam-2024-714825.html
+386,6,07-07-2024,"Petrovietnam hỗ trợ Quảng Trị 9,5 tỷ đồng thực hiện các công trình an sinh xã hội",https://petrovietnam.petrotimes.vn/petrovietnam-ho-tro-quang-tri-95-ty-dong-thuc-hien-cac-cong-trinh-an-sinh-xa-hoi-713893.html
+387,2,21-07-2024,Giá dầu trong tuần (15/7-21/7): Dầu thô kết thúc tuần giảm giá,https://petrotimes.vn/gia-dau-trong-tuan-157-217-dau-tho-ket-thuc-tuan-giam-gia-714646.html
+388,2,19-07-2024,Giá dầu hôm nay (19/7): Dầu thô quay đầu giảm,https://petrotimes.vn/gia-dau-hom-nay-197-dau-tho-quay-dau-giam-714533.html
+389,6,20-07-2024,Giá dầu hôm nay (20/7): Dầu thô tiếp tục giảm,https://petrotimes.vn/gia-dau-hom-nay-207-dau-tho-tiep-tuc-giam-714611.html
+390,1,22-07-2024,Giá dầu hôm nay (22/7): Dầu thô tăng nhẹ trong phiên giao dịch đầu tuần,https://petrotimes.vn/gia-dau-hom-nay-227-dau-tho-tang-nhe-trong-phien-giao-dich-dau-tuan-714683.html
+391,5,20-07-2024,Bộ Công Thương: Giao Tập đoàn nhà nước thí điểm điện gió ngoài khơi,https://petrotimes.vn/bo-cong-thuong-giao-tap-doan-nha-nuoc-thi-diem-dien-gio-ngoai-khoi-714615.html
+392,1,21-07-2024,BSR và hành trình thắp sáng tương lai,https://petrotimes.vn/bsr-va-hanh-trinh-thap-sang-tuong-lai-713986.html
+393,1,25-07-2024,Cử hành trọng thể Lễ Quốc tang Tổng Bí thư Nguyễn Phú Trọng,https://www.vanhoavaphattrien.vn/index.php/cu-hanh-trong-the-le-quoc-tang-tong-bi-thu-nguyen-phu-trong-a25674.html
+394,1,25-07-2024,Chia sẻ của nhà văn Hàn Quốc đầu tiên viết sách về Tổng Bí thư Nguyễn Phú Trọng,https://www.vanhoavaphattrien.vn/index.php/chia-se-cua-nha-van-han-quoc-dau-tien-viet-sach-ve-tong-bi-thu-nguyen-phu-trong-a25673.html
+395,6,25-07-2024,"Tổng Bí thư Nguyễn Phú Trọng: Nhà lãnh đạo lỗi lạc, trọn đời vì nước, vì dân",https://www.vanhoavaphattrien.vn/index.php/tong-bi-thu-nguyen-phu-trong-nha-lanh-dao-loi-lac-tron-doi-vi-nuoc-vi-dan-a25666.html
+396,1,24-07-2024,Yên Bái quyết tâm hiện thực chỉ đạo của Tổng Bí thư Nguyễn Phú Trọng: Phấn đấu xây dựng “cơ đồ” ngày càng tươi đẹp,https://www.vanhoavaphattrien.vn/index.php/yen-bai-quyet-tam-hien-thuc-chi-dao-cua-tong-bi-thu-nguyen-phu-trong-phan-dau-xay-dung-co-do-ngay-cang-tuoi-dep-a25668.html
+397,6,24-07-2024,"Nước lau sàn Careox: Cho nhà sạch, thơm mát tự nhiên",https://www.vanhoavaphattrien.vn/index.php/nuoc-lau-san-careox-cho-nha-sach-thom-mat-tu-nhien-a25669.html
+398,6,23-07-2024,Phòng CSGT Công an tỉnh Tuyên Quang: Bắt giữ hơn 7 tấn lợn bị dịch tả Châu Phi,https://www.vanhoavaphattrien.vn/index.php/bat-giu-hon-7-tan-lon-bi-dich-ta-chau-phi-a25658.html
+399,3,21-07-2024,"Careox - giải pháp tối ưu cho không khí trong lành, bảo vệ sức khỏe gia đình",https://www.vanhoavaphattrien.vn/index.php/careox-giai-phap-toi-uu-cho-khong-khi-trong-lanh-bao-ve-suc-khoe-gia-dinh-a25646.html
+400,6,18-07-2024,Nước súc miệng Careox: bảo vệ sức khỏe cho gia đình bạn,https://www.vanhoavaphattrien.vn/index.php/nuoc-suc-mieng-careox-bao-ve-suc-khoe-cho-gia-dinh-ban-a25635.html
+401,6,25-07-2024,"Đại sứ quán Việt Nam tại các nước mở sổ tang, tổ chức lễ viếng Tổng Bí thư Nguyễn Phú Trọng",https://www.sggp.org.vn/dai-su-quan-viet-nam-tai-cac-nuoc-mo-so-tang-to-chuc-le-vieng-tong-bi-thu-nguyen-phu-trong-post750982.html
+402,1,25-07-2024,Nhiều đoàn quốc tế đến viếng Tổng Bí thư Nguyễn Phú Trọng,https://www.sggp.org.vn/nhieu-doan-quoc-te-den-vieng-tong-bi-thu-nguyen-phu-trong-post750966.html
+403,5,25-07-2024,Người dân tiếc thương Tổng Bí thư Nguyễn Phú Trọng,https://www.sggp.org.vn/nguoi-dan-tiec-thuong-tong-bi-thu-nguyen-phu-trong-post750914.html
+404,1,25-07-2024,Nghi lễ treo cờ rủ tưởng niệm Tổng Bí thư Nguyễn Phú Trọng của lực lượng gìn giữ hòa bình Việt Nam tại Abyei và Nam Sudan,https://www.sggp.org.vn/nghi-le-treo-co-ru-tuong-niem-tong-bi-thu-nguyen-phu-trong-cua-luc-luong-gin-giu-hoa-binh-viet-nam-tai-abyei-va-nam-sudan-post750886.html
+405,6,25-07-2024,Tổng Bí thư Nguyễn Phú Trọng với những nghị quyết đột phá cho TPHCM,https://www.sggp.org.vn/tong-bi-thu-nguyen-phu-trong-voi-nhung-nghi-quyet-dot-pha-cho-tphcm-post750875.html
+406,1,25-07-2024,"Định hình chiến lược phát triển toàn diện, bền vững cho đất nước",https://www.sggp.org.vn/dinh-hinh-chien-luoc-phat-trien-toan-dien-ben-vung-cho-dat-nuoc-post750877.html
+407,1,25-07-2024,Cử hành trọng thể Lễ viếng Tổng Bí thư Nguyễn Phú Trọng ở 3 địa điểm,https://www.sggp.org.vn/cu-hanh-trong-the-le-vieng-tong-bi-thu-nguyen-phu-trong-o-3-dia-diem-post750885.html
+408,6,25-07-2024,Sức lan tỏa của một người đảng viên tiêu biểu,https://www.sggp.org.vn/suc-lan-toa-cua-mot-nguoi-dang-vien-tieu-bieu-post750876.html
+409,1,25-07-2024,TPHCM: Dòng người dưới mưa viếng Tổng Bí thư Nguyễn Phú Trọng,https://www.sggp.org.vn/tphcm-dong-nguoi-duoi-mua-vieng-tong-bi-thu-nguyen-phu-trong-post750880.html
+410,6,25-07-2024,"Khắc ghi hình ảnh nhà lãnh đạo gần gũi, ân cần",https://www.sggp.org.vn/khac-ghi-hinh-anh-nha-lanh-dao-gan-gui-an-can-post750878.html
+411,1,24-07-2024,Chủ tịch UBND TPHCM Phan Văn Mãi kiểm tra công tác chuẩn bị Lễ tang Tổng Bí thư Nguyễn Phú Trọng,https://www.sggp.org.vn/chu-tich-ubnd-tphcm-phan-van-mai-kiem-tra-cong-tac-chuan-bi-le-tang-tong-bi-thu-nguyen-phu-trong-post750830.html
+412,6,24-07-2024,Người dân có mặt tại Hội trường Thống Nhất chờ viếng tang Tổng Bí thư Nguyễn Phú Trọng,https://www.sggp.org.vn/nguoi-dan-co-mat-tai-hoi-truong-thong-nhat-cho-vieng-tang-tong-bi-thu-nguyen-phu-trong-post750806.html
+413,6,24-07-2024,"Đưa sai phạm tại Đồi Cù vào diện theo dõi phòng chống tham nhũng, tiêu cực",https://www.sggp.org.vn/dua-sai-pham-tai-doi-cu-vao-dien-theo-doi-phong-chong-tham-nhung-tieu-cuc-post750861.html
+414,1,24-07-2024,Làm rõ vụ clip “nhạy cảm” của cô giáo mầm non bị phát tán,https://www.sggp.org.vn/lam-ro-vu-clip-nhay-cam-cua-co-giao-mam-non-bi-phat-tan-post750842.html
+415,6,24-07-2024,Giám đốc trung tâm đăng kiểm khai lý do đưa tiền cho cục trưởng là vì “văn hóa”,https://www.sggp.org.vn/giam-doc-trung-tam-dang-kiem-khai-ly-do-dua-tien-cho-cuc-truong-la-vi-van-hoa-post750836.html
+416,1,24-07-2024,Xét xử vụ án FLC: Kiểm toán viên đề nghị trả lại tiền khắc phục hậu quả,https://www.sggp.org.vn/xet-xu-vu-an-flc-kiem-toan-vien-de-nghi-tra-lai-tien-khac-phuc-hau-qua-post750774.html
+417,6,24-07-2024,Lời khai mâu thuẫn giữa cựu Cục trưởng và cựu quyền Trưởng Phòng Kiểm định xe cơ giới,https://www.sggp.org.vn/loi-khai-mau-thuan-giua-cuu-cuc-truong-va-cuu-quyen-truong-phong-kiem-dinh-xe-co-gioi-post750768.html
+418,6,24-07-2024,"Bắt giữ đối tượng lợi dụng hình ảnh ông Lê Anh Tú (Thích Minh Tuệ) để lừa đảo, chiếm đoạt tiền",https://www.sggp.org.vn/bat-giu-doi-tuong-loi-dung-hinh-anh-ong-le-anh-tu-thich-minh-tue-de-lua-dao-chiem-doat-tien-post750752.html
+419,6,23-07-2024,Cà Mau: Khởi tố vụ án nghi mẹ kế tái diễn bạo hành con chồng,https://www.sggp.org.vn/ca-mau-khoi-to-vu-an-nghi-me-ke-tai-dien-bao-hanh-con-chong-post750666.html
+420,6,23-07-2024,"Ông Trịnh Văn Quyết ước tính tài sản khoảng 5.000 tỷ đồng, đủ để khắc phục",https://www.sggp.org.vn/ong-trinh-van-quyet-uoc-tinh-tai-san-khoang-5000-ty-dong-du-de-khac-phuc-post750680.html
+421,6,23-07-2024,Tử hình nữ thủ quỹ trong vụ tham ô tài sản tại Trường Đại học Bách khoa Đà Nẵng,https://www.sggp.org.vn/tu-hinh-nu-thu-quy-trong-vu-tham-o-tai-san-tai-truong-dai-hoc-bach-khoa-da-nang-post750662.html
+422,6,23-07-2024,Đăng tuyển “việc nhẹ lương cao” để bán người ra nước ngoài,https://www.sggp.org.vn/dang-tuyen-viec-nhe-luong-cao-de-ban-nguoi-ra-nuoc-ngoai-post750660.html
+423,6,23-07-2024,"Lừa ""chạy án"" cho người bị phạt tù chung thân, chiếm đoạt hơn 3 tỷ đồng",https://www.sggp.org.vn/lua-chay-an-cho-nguoi-bi-phat-tu-chung-than-chiem-doat-hon-3-ty-dong-post750648.html
+424,6,23-07-2024,Xét xử vụ án FLC: 1 bị cáo phản cung,https://www.sggp.org.vn/xet-xu-vu-an-flc-1-bi-cao-phan-cung-post750651.html
+425,6,23-07-2024,Gia đình ông Trịnh Văn Quyết nộp thêm hơn 25 tỷ đồng khắc phục hậu quả,https://www.sggp.org.vn/gia-dinh-ong-trinh-van-quyet-nop-them-hon-25-ty-dong-khac-phuc-hau-qua-post750636.html
+426,6,23-07-2024,"Xét xử ""đại án"" Cục Đăng kiểm Việt Nam: Nhiều bị cáo thừa nhận đã nhận hối lộ",https://www.sggp.org.vn/xet-xu-dai-an-cuc-dang-kiem-viet-nam-nhieu-bi-cao-thua-nhan-da-nhan-hoi-lo-post750629.html
+427,1,23-07-2024,"Bắt 4 cán bộ huyện, xã do lập 13 hồ sơ “sổ đỏ” trái quy định",https://www.sggp.org.vn/bat-4-can-bo-huyen-xa-do-lap-13-ho-so-so-do-trai-quy-dinh-post750611.html
+428,6,10-07-2024,Tăng tốc số hóa dữ liệu từ cơ sở,https://www.sggp.org.vn/tang-toc-so-hoa-du-lieu-tu-co-so-post748534.html
+429,6,08-07-2024,“Trái ngọt” cơ sở dữ liệu,https://www.sggp.org.vn/trai-ngot-co-so-du-lieu-post748203.html
+430,1,04-07-2024,Gỡ khó trong sắp xếp đơn vị sự nghiệp công lập,https://www.sggp.org.vn/go-kho-trong-sap-xep-don-vi-su-nghiep-cong-lap-post747634.html
+431,1,01-07-2024,Sẵn sàng cấp căn cước mới cho người dân,https://www.sggp.org.vn/san-sang-cap-can-cuoc-moi-cho-nguoi-dan-post747118.html
+432,6,29-06-2024,"Sắp xếp khu phố, ấp: Hoàn thiện bộ máy cơ sở để hoạt động hiệu quả",https://www.sggp.org.vn/sap-xep-khu-pho-ap-hoan-thien-bo-may-co-so-de-hoat-dong-hieu-qua-post746863.html
+433,1,28-06-2024,"Cà Mau phấn đấu cải thiện, nâng cao chỉ số cạnh tranh",https://www.sggp.org.vn/ca-mau-phan-dau-cai-thien-nang-cao-chi-so-canh-tranh-post746792.html
+434,1,12-06-2024,Thực hiện Kết luận 14 gắn với tháo gỡ các khó khăn trong sử dụng tài sản công,https://www.sggp.org.vn/thuc-hien-ket-luan-14-gan-voi-thao-go-cac-kho-khan-trong-su-dung-tai-san-cong-post744274.html
+435,6,11-06-2024,Chính phủ cắt giảm thủ tục hành chính liên quan đến phiếu lý lịch tư pháp,https://www.sggp.org.vn/chinh-phu-cat-giam-thu-tuc-hanh-chinh-lien-quan-den-phieu-ly-lich-tu-phap-post744133.html
+436,6,31-05-2024,Thành ủy TPHCM chỉ đạo triển khai Đề án 06 trên địa bàn,https://www.sggp.org.vn/thanh-uy-tphcm-chi-dao-trien-khai-de-an-06-tren-dia-ban-post742357.html
+437,6,30-05-2024,Đẩy mạnh cải cách hành chính gắn với giải ngân vốn đầu tư công,https://www.sggp.org.vn/day-manh-cai-cach-hanh-chinh-gan-voi-giai-ngan-von-dau-tu-cong-post742218.html
+438,4,29-05-2024,Sở ngành cần mạnh dạn đề xuất UBND TPHCM các nội dung phân cấp ủy quyền,https://www.sggp.org.vn/so-nganh-can-manh-dan-de-xuat-ubnd-tphcm-cac-noi-dung-phan-cap-uy-quyen-post742123.html
+439,6,28-05-2024,"Huyện Bình Chánh “mong” sớm có thanh tra địa bàn về cấp quận, huyện",https://www.sggp.org.vn/huyen-binh-chanh-mong-som-co-thanh-tra-dia-ban-ve-cap-quan-huyen-post741950.html
+440,6,26-07-2024,Bóng đá Olympic khai màn với nhiều tranh cãi,https://nld.com.vn/bong-da-olympic-khai-man-voi-nhieu-tranh-cai-196240725194440712.htm
+441,6,26-07-2024,TẬN TỤY VÌ ĐOÀN VIÊN - LAO ĐỘNG : Không ngại khó ngại khổ,https://nld.com.vn/tan-tuy-vi-doan-vien-lao-dong-khong-ngai-kho-ngai-kho-196240725194236293.htm
+442,6,25-07-2024,Ông Trịnh Văn Quyết: ‘Từ trong trại giam bị cáo luôn đau đáu việc khắc phục hậu quả’,https://tuoitre.vn/ong-trinh-van-quyet-tu-trong-trai-giam-bi-cao-luon-dau-dau-viec-khac-phuc-hau-qua-2024072509310598.htm
+443,6,25-07-2024,"Phía trước, phía sau đều là sự sống",https://tuoitre.vn/phia-truoc-phia-sau-deu-la-su-song-20240725090613701.htm
+444,6,25-07-2024,Siết quản lý thuế với livestream bán hàng,https://tuoitre.vn/siet-quan-ly-thue-voi-livestream-ban-hang-20240725080116761.htm
+445,1,25-07-2024,Giá cà phê giống tăng đột biến,https://tuoitre.vn/gia-ca-phe-giong-tang-dot-bien-20240725081656197.htm
+446,6,24-07-2024,Ông Musk nối Internet vệ tinh đến bệnh viện ở Dải Gaza,https://tuoitre.vn/ong-musk-noi-internet-ve-tinh-den-benh-vien-o-dai-gaza-20240724221844018.htm
+447,1,27-10-2013,Phát hiện thi thể biến dạng gần nơi BS ném xác phi tang,https://laodongthudo.vn/nguoi-dan-can-som-di-doi-khoi-khu-nha-xuong-cap-nguy-hiem-3838.html
+448,1,26-07-2024,“Kế hoạch bí mật : Báo chí đưa tin về lỗ hổng trong hệ thống phòng thủ của NATO,https://kevevn.vn/20240726/ke-hoach-bi-mat-bao-chi-dua-tin-ve-lo-hong-trong-he-thong-phong-thu-cua-nato-31003130.html
+449,1,26-07-2024,“Kế hoạch bí mật : Báo chí đưa tin về lỗ hổng trong hệ thống phòng thủ của NATO,https://sputniknews.vn/20240726/ke-hoach-bi-mat-bao-chi-dua-tin-ve-lo-hong-trong-he-thong-phong-thu-cua-nato-31003130.html
