@@ -1,8 +1,6 @@
 # Keyword Analysis from Web-Scraped Data
 
-## Overview
-
-This project was developed during my **internship** and focuses on **analyzing keyword trends from large-scale web-scraped news data**, inspired by the concept of **Google Trends**.
+This project was developed during my **internship** at FPT Software and focuses on **analyzing keyword trends from large-scale web-scraped news data**, inspired by the concept of **Google Trends**.
 
 The system collects news articles from multiple Vietnamese online newspapers, extracts relevant keywords using a **Large Language Model (LLM)**, and visualizes keyword popularity over time through interactive word clouds.
 
@@ -38,8 +36,6 @@ All extracted data is stored in a **SQL Server database** with the following sch
 - **keywords**  
   Stores keywords associated with each article.
 
----
-
 ## Data Visualization
 
 A **Streamlit web application** is used to visualize keyword trends:
@@ -59,11 +55,9 @@ It primarily serves as:
 - a **weekly progress record**, and
 - a reference for experimentation and iterative development.
 
-Further optimization, refactoring, and feature completion were planned beyond this version.
-
 ---
 
 ## Author
 
-Tran Minh Chau  
-Internship Project
+- Anh Tuan DINH
+- Tran Minh Chau DO
