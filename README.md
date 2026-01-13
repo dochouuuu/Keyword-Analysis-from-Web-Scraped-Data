@@ -1,13 +1,69 @@
-# Keyword Trends Visualization
+# Keyword Analysis from Web-Scraped Data
 
-This project fetches articles and keywords from a SQL Server database and visualizes keyword trends using a word cloud. Users can select a date and a category to generate the word cloud for keywords from articles on that date and category.
+## Overview
 
-## Project Description
+This project was developed during my **internship** and focuses on **analyzing keyword trends from large-scale web-scraped news data**, inspired by the concept of **Google Trends**.
 
-This project scrapes websites to retrieve articles and uses LLM to collect their associated keywords. The data is stored in a SQL Server database with the following schema:
+The system collects news articles from multiple Vietnamese online newspapers, extracts relevant keywords using a **Large Language Model (LLM)**, and visualizes keyword popularity over time through interactive word clouds.
 
-- `categories` table to store categories of articles.
-- `articles` table to store articles with a reference to their categories.
-- `keywords` table to store keywords associated with each article.
+The version published in this repository reflects **incremental weekly work and experimentation**, rather than a finalized production system.
 
-A Streamlit app allows users to visualize keyword trends by generating word clouds. Users can select a specific date and category to view the trends.
+---
+
+## Project Objectives
+
+- Scrape news articles from Vietnamese online newspapers  
+- Automatically extract meaningful keywords from article content  
+- Store structured data in a relational database  
+- Visualize keyword trends by date and category  
+- Provide an interactive interface for exploratory analysis  
+
+---
+
+## System Architecture
+
+### Data Collection
+- Web scraping is used to retrieve articles from various Vietnamese news websites.
+- Article content is processed using an **LLM-based keyword extraction pipeline**.
+
+### Data Storage
+All extracted data is stored in a **SQL Server database** with the following schema:
+
+- **categories**  
+  Stores article categories (e.g., politics, economy, society).
+
+- **articles**  
+  Stores article metadata and content, with a reference to its category.
+
+- **keywords**  
+  Stores keywords associated with each article.
+
+---
+
+## Data Visualization
+
+A **Streamlit web application** is used to visualize keyword trends:
+
+- Users can select:
+  - a **specific date**
+  - a **news category**
+- A **word cloud** is generated to display the most frequent keywords for the selected parameters.
+- The visualization allows quick identification of trending topics for a given day.
+
+---
+
+## Repository Notes
+
+This repository represents a **work-in-progress snapshot** of the project during the internship period.  
+It primarily serves as:
+- a **weekly progress record**, and
+- a reference for experimentation and iterative development.
+
+Further optimization, refactoring, and feature completion were planned beyond this version.
+
+---
+
+## Author
+
+Tran Minh Chau  
+Internship Project
