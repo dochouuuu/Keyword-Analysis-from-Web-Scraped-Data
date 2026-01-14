@@ -36,7 +36,7 @@ All extracted data is stored in a **SQL Server database** with the following sch
 - **keywords**  
   Stores keywords associated with each article.
 
-## Data Visualization
+### Data Visualization
 
 A **Streamlit web application** is used to visualize keyword trends:
 
